@@ -25,15 +25,17 @@ Work experience
   
 Skills
 ======
-* Powerlifting
+* Powerlifting (Inspired by Prof. Lauren Cohen)
 <!--* Kendo
 #* Skill 3-->
 
+<!--
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  -->
   
 <!--Talks
 ======
