@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Ph.D. candidate in finance"
   location         : "Shanghai, CH"
-  employer         : "Shanghai Advanced Institute of Finance (SAIF)"
+  employer         : #"Shanghai Advanced Institute of Finance (SAIF)"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : xjzheng.20@saif.sjtu.edu.cn
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/%E8%A1%8C%E5%81%A5-%E9%83%91-258a19190/"
+  linkedin         : "%E8%A1%8C%E5%81%A5-%E9%83%91-258a19190/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
