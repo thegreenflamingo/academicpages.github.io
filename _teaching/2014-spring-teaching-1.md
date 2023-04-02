@@ -8,7 +8,7 @@ date: 2014-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I serve as the teaching assistant for Professor Feng Li on MBA level course Principal of Accounting.
 
 Heading 1
 ======
