@@ -4,7 +4,7 @@ collection: teaching
 type: "MBA level course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "SAIF"
-date: 2014-01-01
+date: <!--2014-01-01-->
 location: "City, Country"
 ---
 
