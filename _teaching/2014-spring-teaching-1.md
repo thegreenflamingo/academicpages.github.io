@@ -1,9 +1,9 @@
 ---
 title: "Principal of accounting"
 collection: teaching
-type: "Undergraduate course"
+type: "MBA level course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+venue: "SAIF"
 date: 2014-01-01
 location: "City, Country"
 ---
