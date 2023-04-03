@@ -20,7 +20,7 @@ Work experience
   * Luohan Academy, Alibaba
 
 * 2021-present: Research Assistant
-  * China Finance Research Center (CAFR), SJTU
+  * China Academy of Finance Research (CAFR), SJTU
 
   
 Skills
