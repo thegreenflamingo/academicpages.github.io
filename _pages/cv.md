@@ -11,21 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in Economics, COME, Tianjin University, 2020
+* B.S. in Economics, COME, Tianjin University, 2020 (with high honor)
 * Ph.D in Finance, SAIF, Shanghai Jiaotong Univeristy, 2026 (expected)
 
 Work experience
 ======
 * 2020-2021: Research Assistant
-  * Luohan Academy
+  * Luohan Academy, Alibaba
 
 * 2021-present: Research Assistant
-  * China Finance Research Center (CAFR)
+  * China Finance Research Center (CAFR), SJTU
 
   
 Skills
 ======
-* Powerlifting (Inspired by Prof. Lauren Cohen)
+* Powerlifting (Inspired by [Prof. Lauren Cohen](https://www.laurenhcohen.com/hobbies))
 <!--* Kendo
 #* Skill 3-->
 
