@@ -15,4 +15,4 @@ Welcome to my site! I am currently a third-year Ph.D. candidate in Finance at Sh
 
 I am currently working on multiple related projects related to fintech. Any comment or discussion is more than welcomed. 
 
-I am advised by Prof. [Feng LI](https://en.saif.sjtu.edu.cn/faculty-research/li-feng), and I am expected to graduate in 2026-27. 
+My committee chair is Prof. [Feng LI](https://en.saif.sjtu.edu.cn/faculty-research/li-feng), and I am expected to graduate in 2026-27. 
