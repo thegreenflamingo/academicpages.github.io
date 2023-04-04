@@ -8,7 +8,7 @@ date: 2022-01-01
 location: "City, Country"
 ---
 
-I serve as the teaching assistant for Professor Feng Li on MBA level course Principal of Accounting.
+I serve as the teaching assistant for Professor Feng Li on an MBA level course _Principal of Accounting_ from year 2021 to presesnt.
 
 <!--Heading 1
 ======-->
