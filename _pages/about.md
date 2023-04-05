@@ -17,4 +17,4 @@ I am currently working on multiple projects related to fintech. Any comment or d
 
 My committee chair is Prof. [Feng LI](https://en.saif.sjtu.edu.cn/faculty-research/li-feng), and I am expected to graduate in 2026-27. 
 
-You can reach me at **211 West Huaihai Road, Datong Plaza, Shanghai Jiaotong University, Shanghai, China** 200030. Hope to see you in person!
+You can reach me at *211 West Huaihai Road, Datong Plaza, Shanghai Jiaotong University, Shanghai, China* 200030. Hope to see you in person!
