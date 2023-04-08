@@ -26,6 +26,7 @@ Work experience
 Skills
 ======
 * Powerlifting (Inspired by [Prof. Lauren Cohen](https://www.laurenhcohen.com/hobbies))
+* Kendo
 <!--* Kendo
 #* Skill 3-->
 
@@ -51,4 +52,5 @@ Publications
   
 Service and leadership
 ======
-* Currently on the board of SJTU KENDO club. 
+* Board member of SJTU KENDO club
+* SJTU investment club
