@@ -13,4 +13,4 @@ I serve as the teaching assistant for Professor Feng Li on an MBA level course _
 <!--Heading 1
 ======-->
 
-Please click the [resourse](https://github.com/thegreenflamingo/academicpages.github.io/blob/master/_teaching/PA%20tutorial.pdf) for supplementary materials. 
+Please click the [resourse](https://github.com/thegreenflamingo/academicpages.github.io/blob/master/_teaching/PA%20tutorial.pdf) for supplementary materials. You may find it useful for mid-and-final term exams. 
