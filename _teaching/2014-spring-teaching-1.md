@@ -8,7 +8,7 @@ date: 2023-01-01
 location: "City, Country"
 ---
 
-I serve as the teaching assistant for Professor Feng Li on an MBA level course _Principal of Accounting_ from year 2021 to presesnt. Please send me a message if you should have any question related to this curriculum. I prefer a detailed inquiry via e-mail to questions sent by WeChat. Applying for a sick-leave should go to the course coordinator. 
+I serve as the teaching assistant for Professor [Feng Li](https://en.saif.sjtu.edu.cn/faculty-research/li-feng) on an MBA level course _Principal of Accounting_ from year 2021 to presesnt. Please send me a message if you should have any question related to this curriculum. I prefer a detailed inquiry via e-mail to questions sent by WeChat. Applying for a sick-leave should go to the course coordinator. 
 
 <!--Heading 1
 ======-->
