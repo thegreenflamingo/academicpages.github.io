@@ -50,7 +50,8 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>-->
   
-Service and leadership
+Leadership and service
 ======
-* Board member of SJTU KENDO club
+* Board member of SJTU Kendo club
+* Shinian Kendo club
 * SJTU investment club
