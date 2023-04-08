@@ -9,6 +9,7 @@ location: "City, Country"
 ---
 
 I serve as the teaching assistant for Professor [Wu Fei](https://en.saif.sjtu.edu.cn/faculty-research/wu-fei) on an MBA level course _Venture Capital and Private Equity_ from year 2021 to presesnt.
+
 All students are assinged to pre-determined groups and should prepare for your in-class presentation. The presentation sequence is as follow: 
 
 **Week1**
