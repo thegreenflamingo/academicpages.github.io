@@ -18,7 +18,7 @@ author_profile: true
 Working Projects
 ------
 
-**The low-carbon premium: a machine learning approach (with Feng Li)**
+**The low-carbon premium: a machine learning approach (with [Feng Li](https://en.saif.sjtu.edu.cn/faculty-research/li-feng))**
 
 *Abstract:* 
 
@@ -28,3 +28,18 @@ algorithm known as XGBoost to estimate Scope 1 carbon emissions of listed firms 
 Scheduled to present at *CICF 2023*. 
 
 (Manuscript [here](https://github.com/thegreenflamingo/academicpages.github.io/blob/master/_publications/The_low_carbon_premium_V4_.pdf))
+
+
+
+Work in Progress
+------
+**The role of institutional investors in corporate responsibility: evidence from institutional private engagement** (with [Danting Chang](https://www.glxy.sdu.edu.cn/info/1091/5914.htm))
+
+**Good disclosure or Bad disclosure? evidence from mutual fund annual reports **
+
+
+
+
+
+
+
