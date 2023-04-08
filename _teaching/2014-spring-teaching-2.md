@@ -14,7 +14,6 @@ All students are assinged to pre-determined groups and should prepare for your i
 **Week1**
 
     Startup Capital Ventures in China (Group 1)
-    
     Shenzhen Capital Group (Group 2)
     
 **Week2**
