@@ -19,19 +19,16 @@ All students are assinged to pre-determined groups and should prepare for your i
 **Week2**
 
     Brazos Partners and Cheddar's Inc. (Group 3)
-    
     Dalian Wanda Group: The AMC Entertainment Acquisition (A) (Group 4)
     
 **Week3**
 
     ENDECA TECHNOLOGIES (A) (Group 5)
-    
     Mobike: A Worthy Bike-Sharing Unicorn? (Group 6)
     
 **Week4**
 
     Gobi Partners and DMG (Group 7)
-    
     WARBURG PINCUS AND EMGS: THE IPO DECISION (A) (Group 8)
     
     
