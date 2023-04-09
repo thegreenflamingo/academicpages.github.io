@@ -12,4 +12,5 @@ redirect_from:
 If you also like Shiba inu, then we can make very good friends! 
 ======
 
+![shiba1](/images/shiba/shiba1.jpg)
 
