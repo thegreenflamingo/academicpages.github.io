@@ -33,7 +33,7 @@ Work in Progress
 ------
 **The role of institutional investors in corporate responsibility: evidence from institutional private engagement** (with [Danting Chang](https://www.glxy.sdu.edu.cn/info/1091/5914.htm))
 
-**Good disclosure or Bad disclosure? evidence from mutual fund annual reports**
+**Peacock’s Feathers: Strategic disclosure in mutual fund annual reports **
 
 
 
