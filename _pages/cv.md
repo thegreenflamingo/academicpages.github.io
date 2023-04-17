@@ -49,7 +49,17 @@ Publications
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>-->
-  
+
+Programming skills
+======
+* Python, R, LateX, STATA, and SAS (rudimentary)
+
+Language
+======
+* English (Fluent)
+* Mandarin & Shanghainese (Native)
+* Japanese (N-4 level)
+
 Leadership and service
 ======
 * Board member of SJTU Kendo club
