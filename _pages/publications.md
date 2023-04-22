@@ -18,14 +18,14 @@ author_profile: true
 Working Projects
 ------
 
-**The low-carbon premium: a machine learning approach (with [Feng Li](https://en.saif.sjtu.edu.cn/faculty-research/li-feng))**
+**Carbon emission and asset prices: new evidence from
+machine learning** (with [Feng Li](https://en.saif.sjtu.edu.cn/faculty-research/li-feng))
 
 *Abstract:* 
 
-Firms that share similar business structures produce carbon emissions on a similar scale. In this paper, we estimate a large panel of carbon emission data by US firms with a novel approach. We use a measure called Cosine Similarity to proxy for firms’ business similarity from 10-K filings. Then, we apply a machine learning
-algorithm known as XGBoost to estimate Scope 1 carbon emissions of listed firms from 2002 to 2021. Our estimated dataset has on average 4111 firms per year, which outnumbers all the other data sources and has high credibility. Based on this data set, we examine firms’ carbon risk pricing in the US equity market. The result supports a low-carbon premium hypothesis, in which firms that emit less carbon dioxide significantly perform better, and this effect is more pronounced after the Paris Agreement at the end of 2015, implying investors’ preference for carbon risk only became prominent in recent years. Overall, this paper reveals the possible sampling bias in previous research and provides researchers with a different approach to understanding climate finance.
+We estimate a large data panel of carbon emissions by US firms with a machine learning algorithm known as XGBoost. We estimate scope 1 carbon emissions of listed firms from 2002 to 2021. This data set has broad coverage of 4111 firms per year as compared to 1675 firms provided by data vendors. Based on this data set, we examine firms’ carbon risk pricing in the US equity market. The result shows that stocks of high-carbon firms earned higher returns before the Paris Agreement, whereas low-carbon firms outperform significantly in recent years. This contrasting phenomenon implies a positive shift in investors' ESG-related preferences and is more pronounced with our estimated data sample. Overall, this paper complements rather than challenges previous empirical research from both sides and provides researchers with a novel approach to understanding climate finance. 
 
-Scheduled to present at *CICF 2023*. (Manuscript [here](https://github.com/thegreenflamingo/academicpages.github.io/blob/master/_publications/The_low_carbon_premium_V4_.pdf))
+Scheduled to present at *CICF 2023*. (Manuscript [here](https://github.com/thegreenflamingo/academicpages.github.io/blob/master/_publications/carbon.pdf))
 
 
 
