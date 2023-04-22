@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-_If you also like Shiba inu, then we can make very good friends! _
+If you also like Shiba inu, then we can make very good friends! 
 ======
 
 ![shiba1](/images/shiba/shiba1.png)
