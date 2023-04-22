@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Economics, COME, Tianjin University, 2020 (with high honor)
-* Ph.D in Finance, SAIF, Shanghai Jiaotong Univeristy, 2026 (expected)
+* Ph.D. in Finance, SAIF, Shanghai Jiaotong Univeristy, 2026 (expected)
 
 Work experience
 ======
