@@ -11,7 +11,7 @@ For the cross-sectional similarity score, I compute the textual similarity of fu
 
 You can download the CS data [here]().
 
-<-- ![csbycategory](/images/portfolio/csbycategory.png) -->
+<> ![csbycategory](/images/portfolio/csbycategory.png) 
 ![timeseries](/images/portfolio/timeseries.png)
 
 For the time-series similarity score, I follow the work by the Lazy Prices (JF, 2020) by calculating the cosine similarity of fund reports of quarter t and t-1. 
