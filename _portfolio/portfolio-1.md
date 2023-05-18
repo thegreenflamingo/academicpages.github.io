@@ -7,6 +7,7 @@ This databank contains fund-year level "review" similarity ratio either on a cro
 
 I crawl down all the mututal fund annually reports from EastMoney.com and complement the missing files from CNInfo.com. I extract the disscusion and prospectus section as raw copora, and calculate the either the cross-sectional or the time-series similarity score. The calculation method is based on the cosine similarity. 
 
-For the cross-sectional similarity score, I compute the textual similarity of fund A and fund B on year t that belong to the same investment category. Then, I calculate the average similarity for the focal fund by taking average value of its similarity score with other funds. This measure is a simple replication of the famous Hoberg and Philips's business similarity (2010, 2016), but in the context of Chinese mutual fund market. Interestingly, this is a quite unique setting, which is totally different from the fund prospectus (Notable research by Simona Abis) or shareholder letters (Alexander Hillert who basically pioneered this one). However, there is still 
+For the cross-sectional similarity score, I compute the textual similarity of fund A and fund B on year t that belong to the same investment category. Then, I calculate the average similarity for the focal fund by taking average value of its similarity score with other funds. This measure is a simple replication of the famous Hoberg and Philips's business similarity (2010, 2016), but in the context of Chinese mutual fund market. Interestingly, this is a quite unique setting, which is totally different from the fund prospectus (Notable research by Simona Abis) or shareholder letters (Alexander Hillert who basically pioneered this one). Feel free to use it and please share your good news with me. 
 
-![shiba1](/images/portfolio/csbycategory.png)
+![csbycategory](/images/portfolio/csbycategory.png)
+![timeseries](/images/portfolio/timeseries.png)
