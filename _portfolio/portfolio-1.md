@@ -9,14 +9,14 @@ I crawl down all the mututal fund annually reports from EastMoney.com and comple
 
 For the cross-sectional similarity score, I compute the textual similarity of fund A and fund B on year t that belong to the same investment category. Then, I calculate the average similarity for the focal fund by taking average value of its similarity score with other funds. This measure is a simple replication of the famous Hoberg and Philips's business similarity (2010, 2016), but in the context of Chinese mutual fund market. Interestingly, this is a quite unique setting, which is totally different from the fund prospectus (Notable research by Simona Abis) or shareholder letters (Alexander Hillert who basically pioneered this one).
 
-You can download the CS data [here]().
+You can download the CS data [here](https://github.com/thegreenflamingo/academicpages.github.io/blob/master/_portfolio/databank/avg_cross_sim_annual.csv).
 
 ![csbycategory](/images/portfolio/csbycategory.png) 
 ![timeseries](/images/portfolio/timeseries.png)
 
 For the time-series similarity score, I follow the work by the Lazy Prices (JF, 2020) by calculating the cosine similarity of fund reports of quarter t and t-1. 
 
-You can download the TS data [here]().
+You can download the TS data [here](https://github.com/thegreenflamingo/academicpages.github.io/blob/master/_portfolio/databank/time_series_sim_score.csv).
 
 Feel free to use it and please share your good news with me.
 
