@@ -1,10 +1,9 @@
 ---
 title: "Text-based mutual fund strategy similarity"
-excerpt: "This databank contains fund-year level "review" similarity ratio either on a cross-sectional level or a time-series level. item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
-
-I borrow the idea from Hoberg and Phillips (2010， 2016) and Cohen et al. (2020) for their insightful research. 
+This databank contains fund-year level "review" similarity ratio either on a cross-sectional level or a time-series level. I borrow the idea from Hoberg and Phillips (2010， 2016) and Cohen et al. (2020) for their insightful research. 
 
 I crawl down all the mututal fund annually reports from EastMoney.com and complement the missing files from CNInfo.com. I extract the disscusion and prospectus section as raw copora, and calculate the either the cross-sectional or the time-series similarity score. The calculation method is based on the cosine similarity. 
 
