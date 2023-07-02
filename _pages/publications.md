@@ -36,7 +36,7 @@ Scheduled to present at *CICF 2023*, *2023CFRI&CIRF Joint Conference*, *SBSICF 2
 
 Using unique data on institutional investors' in-house meetings with the firm during plant or headquarters visits, this paper examines whether institutional investors actively engage with companies on ESG issues and the impact of such responsible engagement. We use signing up for the UNPRI as a shock and find that institutional investors are significantly more proactive in their ESG engagement after making a public commitment to responsible investing. Moreover, we also find that institutional responsible engagement is associated with higher subsequent firm ESG performance, with this facilitating effect becoming more pronounced when firms have higher ESG contentiousness and when ESG yields financial benefits after the Covid-19 pandemic. Taken together, our findings provide empirical evidence that institutional investors actively engage with companies on ESG issues through private in-house meetings by voicing out their responsible concerns, which is an important factor for companies to achieve better ESG outcomes.
 
-<>(Manuscript [here](https://github.com/thegreenflamingo/academicpages.github.io/blob/master/_publications/rspengg.pdf))
+<!---(Manuscript [here](https://github.com/thegreenflamingo/academicpages.github.io/blob/master/_publications/rspengg.pdf))-->
 
 
 Work in Progress
