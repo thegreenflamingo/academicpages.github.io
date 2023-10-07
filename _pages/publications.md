@@ -44,11 +44,11 @@ Work in Progress
 
 **Words or actions: Carbon awareness in the 21th Century**(with [Feng Li](https://en.saif.sjtu.edu.cn/faculty-research/li-feng))
 
-*Green asset prices started to co-move after the year 2012. *
+*Green asset prices started to co-move after the year 2012.*
 
 **Misclassified green patents** 
 
-*Using NLP methods, some non-green patents are misclassified as green patents (type II error), whereas some other green patents are misclassified to be non-green (type I error). *
+*Using NLP methods, some non-green patents are misclassified as green patents (type II error), whereas some other green patents are misclassified to be non-green (type I error).*
 
 **Peacock’s Feathers: Strategic disclosure in mutual fund annual reports** (Seems like a forever working project)
 
