@@ -48,11 +48,11 @@ Work in Progress
 
 **Misclassified green patents** 
 
-*Using NLP methods, some non-green patents are misclassified as green patents (type II error), whereas some other green patents are misclassified to be non-green (type I error).*
+<small>*Using NLP methods, some non-green patents are misclassified as green patents (type II error), whereas some other green patents are misclassified to be non-green (type I error).*</small>
 
 **Peacock’s Feathers: Strategic disclosure in mutual fund annual reports** (Seems like a forever working project)
 
-*Fund managers with good past performance tend to differentiate themselves in order to distinguish their superior skills by reporting differently.*
+<small>*Fund managers with good past performance tend to differentiate themselves in order to distinguish their superior skills by reporting differently.*</small>
 
 
 
