@@ -44,7 +44,7 @@ Work in Progress
 
 **Words or actions: Carbon awareness in the 21th Century**(with [Feng Li](https://en.saif.sjtu.edu.cn/faculty-research/li-feng))
 
-*Green asset prices started to co-move after the year 2012.*
+<small>*Green asset prices started to co-move after the year 2012.*</small>
 
 **Misclassified green patents** 
 
