@@ -23,7 +23,7 @@ machine learning** (with [Feng Li](https://en.saif.sjtu.edu.cn/faculty-research/
 
 *Abstract:* 
 
-<small>We estimate a large data panel of carbon emissions by US firms with a machine learning algorithm known as XGBoost. We estimate scope 1 carbon emissions of listed firms from 2002 to 2021. This data set has a broad coverage of 4111 firms per year as compared to 1675 firms provided by data vendors. Based on this data set, we examine firms’ carbon risk pricing in the US equity market. The result shows that stocks of high-carbon firms earned higher returns before the Paris Agreement, whereas low-carbon firms outperform significantly in recent years. This contrasting phenomenon implies a positive shift in investors' ESG-related preferences and is more pronounced with our estimated data sample. Overall, this paper complements rather than challenges previous empirical research from both sides and provides researchers with a novel approach to understanding climate finance. </small>
+We estimate a large data panel of carbon emissions by US firms with a machine learning algorithm known as XGBoost. We estimate scope 1 carbon emissions of listed firms from 2002 to 2021. This data set has a broad coverage of 4111 firms per year as compared to 1675 firms provided by data vendors. Based on this data set, we examine firms’ carbon risk pricing in the US equity market. The result shows that stocks of high-carbon firms earned higher returns before the Paris Agreement, whereas low-carbon firms outperform significantly in recent years. This contrasting phenomenon implies a positive shift in investors' ESG-related preferences and is more pronounced with our estimated data sample. Overall, this paper complements rather than challenges previous empirical research from both sides and provides researchers with a novel approach to understanding climate finance. 
 
 Presentations at *CICF 2023*, *2023CFRI&CIRF Joint Conference*, *SBSICF 2023*, *CMCSR 2023*. (Manuscript [here](https://github.com/thegreenflamingo/academicpages.github.io/blob/master/_publications/carbon.pdf), slides [here](https://github.com/thegreenflamingo/academicpages.github.io/blob/master/_publications/carbon_emission_pre.pdf))
 
@@ -34,7 +34,7 @@ Presentations at *CICF 2023*, *2023CFRI&CIRF Joint Conference*, *SBSICF 2023*, *
 
 *Abstract:* 
 
-<small>Using unique data on institutional investors' in-house meetings with the firm during plant or headquarters visits, this paper examines whether institutional investors actively engage with companies on ESG issues and the impact of such responsible engagement. We use signing up for the UNPRI as a shock and find that institutional investors are significantly more proactive in their ESG engagement after making a public commitment to responsible investing. Moreover, we also find that institutional responsible engagement is associated with higher subsequent firm ESG performance, with this facilitating effect becoming more pronounced when firms have higher ESG contentiousness and when ESG yields financial benefits after the Covid-19 pandemic. Taken together, our findings provide empirical evidence that institutional investors actively engage with companies on ESG issues through private in-house meetings by voicing out their responsible concerns, which is an important factor for companies to achieve better ESG outcomes.</small>
+Using unique data on institutional investors' in-house meetings with the firm during plant or headquarters visits, this paper examines whether institutional investors actively engage with companies on ESG issues and the impact of such responsible engagement. We use signing up for the UNPRI as a shock and find that institutional investors are significantly more proactive in their ESG engagement after making a public commitment to responsible investing. Moreover, we also find that institutional responsible engagement is associated with higher subsequent firm ESG performance, with this facilitating effect becoming more pronounced when firms have higher ESG contentiousness and when ESG yields financial benefits after the Covid-19 pandemic. Taken together, our findings provide empirical evidence that institutional investors actively engage with companies on ESG issues through private in-house meetings by voicing out their responsible concerns, which is an important factor for companies to achieve better ESG outcomes.
 
 <!---(Manuscript [here](https://github.com/thegreenflamingo/academicpages.github.io/blob/master/_publications/rspengg.pdf))-->
 
@@ -44,16 +44,15 @@ Work in Progress
 
 **Words or actions: Carbon awareness in the 21th Century**(with [Feng Li](https://en.saif.sjtu.edu.cn/faculty-research/li-feng))
 
-<small>*Green asset prices started to co-move after the year 2012.*</small>
+*Green asset prices started to co-move after the year 2012.*
 
 **Misclassified green patents** 
 
-<small>*Using NLP methods, some non-green patents are misclassified as green patents (type II error), whereas some other green patents are misclassified to be non-green (type I error).*</small>
+*Using NLP methods, some non-green patents are misclassified as green patents (type II error), whereas some other green patents are misclassified to be non-green (type I error).*
 
 **Peacock’s Feathers: Strategic disclosure in mutual fund annual reports** (Seems like a forever working project)
 
-<small>*Fund managers with good past performance tend to differentiate themselves in order to distinguish their superior skills by reporting differently.*</small>
-
+*Fund managers with good past performance tend to differentiate themselves in order to distinguish their superior skills by reporting differently.*
 
 
 
