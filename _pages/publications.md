@@ -39,12 +39,21 @@ Using unique data on institutional investors' in-house meetings with the firm du
 <!---(Manuscript [here](https://github.com/thegreenflamingo/academicpages.github.io/blob/master/_publications/rspengg.pdf))-->
 
 
+
+**Carbon awareness and return co-movement** (with Lucas S. Li)
+*Abstract:* 
+
+This paper documents a significant emission return co-movement as investors' carbon awareness increases. We show that firms that produce carbon emissions on a similar scale have a higher return correlation. This pattern became prominent after 2012 and has been steadily more significant ever since, whereas it was barely significant before 2012. We also show that this co-movement is driven by investor flows as investors purchase green stocks and divest brown stocks. We also adopt a state-level emission target shock to address the endogeneity issue. Overall, this paper examines whether investors care about carbon risk and the pricing of carbon risk from a different perspective. 
+
+<!---(Manuscript [here](https://github.com/thegreenflamingo/academicpages.github.io/blob/master/_publications/carbonawareness.pdf))-->
+
+
+
+
+
+
 Work in Progress
 ------
-
-**Words or actions: Carbon awareness in the 21th Century**(with [Feng Li](https://en.saif.sjtu.edu.cn/faculty-research/li-feng))
-
-*Green asset prices started to co-move after the year 2012.*
 
 **Misclassified green patents** 
 
