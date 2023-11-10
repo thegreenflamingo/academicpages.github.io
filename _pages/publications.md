@@ -41,6 +41,7 @@ Using unique data on institutional investors' in-house meetings with the firm du
 
 
 **Carbon awareness and return co-movement** (with Lucas S. Li)
+
 *Abstract:* 
 
 This paper documents a significant emission return co-movement as investors' carbon awareness increases. We show that firms that produce carbon emissions on a similar scale have a higher return correlation. This pattern became prominent after 2012 and has been steadily more significant ever since, whereas it was barely significant before 2012. We also show that this co-movement is driven by investor flows as investors purchase green stocks and divest brown stocks. We also adopt a state-level emission target shock to address the endogeneity issue. Overall, this paper examines whether investors care about carbon risk and the pricing of carbon risk from a different perspective. 
