@@ -44,9 +44,9 @@ Using unique data on institutional investors' in-house meetings with the firm du
 
 *Abstract:* 
 
-This paper documents a significant emission return co-movement as investors' carbon awareness increases. We show that firms that produce carbon emissions on a similar scale have a higher return correlation. This pattern became prominent after 2012 and has been steadily more significant ever since, whereas it was barely significant before 2012. We also show that this co-movement is driven by investor flows as investors purchase green stocks and divest brown stocks. We also adopt a state-level emission target shock to address the endogeneity issue. Overall, this paper examines whether investors care about carbon risk and the pricing of carbon risk from a different perspective. 
+This paper documents a significant emission return co-movement as investors' carbon awareness increases. We show that firms that produce carbon emissions on a similar scale have a higher return correlation. This pattern became prominent after 2012 and has been steadily more significant ever since, whereas it was barely significant before 2012. We also show that this co-movement pattern is driven by investor flows as investors purchase green stocks and divest brown stocks, and is stronger when investors' attention to environmental news is higher. We also adopt a state-level emission target shock to address the endogeneity issue. Overall, this paper examines whether investors care about carbon risk and the pricing of carbon risk from a different perspective. 
 
-<!---(Manuscript [here](https://github.com/thegreenflamingo/academicpages.github.io/blob/master/_publications/carbonawareness.pdf))-->
+(Manuscript [here](https://github.com/thegreenflamingo/academicpages.github.io/blob/master/_publications/carbonawareness.pdf))
 
 
 
@@ -58,11 +58,11 @@ Work in Progress
 
 **Misclassified green patents** 
 
-*Using NLP methods, some non-green patents are misclassified as green patents (type II error), whereas some other green patents are misclassified to be non-green (type I error).*
+*Some non-green patents are misclassified as green patents (type II error), whereas some other green patents are misclassified to be non-green (type I error).*
 
 **Peacock’s Feathers: Strategic disclosure in mutual fund annual reports** (Seems like a forever working project)
 
-*Fund managers with good past performance tend to differentiate themselves in order to distinguish their superior skills by reporting differently.*
+*Fund managers with good past performance tend to differentiate themselves by reporting differently, so as to distinguish their superior investing skills.*
 
 
 
