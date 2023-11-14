@@ -9,10 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+(A downloadable CV can be found [here](https://github.com/thegreenflamingo/academicpages.github.io/blob/master/files/CV%20-%20Xingjian%20Zheng-%204th%20year%20phd%20candidate.pdf))
 Education
 ======
-* B.S. in Economics, COME, Tianjin University, 2020 (with high honor)
-* Ph.D. in Finance, SAIF, Shanghai Jiaotong Univeristy, 2026 (expected)
+* B.S. in Economics, COME, Tianjin University, 2020 (with distinction)
+* Ph.D. in Finance, SAIF, Shanghai Jiao Tong University, 2026 (expected)
 
 Work experience
 ======
@@ -52,7 +53,7 @@ Publications
 
 Programming skills
 ======
-* Python, R, LateX, STATA, and SAS (rudimentary)
+* Python, R, LateX, STATA, C++, and SAS (rudimentary)
 
 Language
 ======
