@@ -2,7 +2,7 @@
 title: "Big Data & Statistics"
 collection: teaching
 type: "EMBA/DBA level course"
-permalink: /teaching/2014-spring-teaching-2
+permalink: /teaching/2014-spring-teaching-3
 venue: "SAIF"
 date: 2023-01-01
 location: "City, Country"
