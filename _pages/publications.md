@@ -40,7 +40,7 @@ Using unique data on institutional investors' in-house meetings with the firm du
 
 
 
-**Carbon awareness and return co-movement** (with Lucas S. Li)
+**Carbon awareness and return co-movement** (with [Feng Li](https://en.saif.sjtu.edu.cn/faculty-research/li-feng))
 
 *Abstract:* 
 
