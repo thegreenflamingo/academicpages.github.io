@@ -62,7 +62,7 @@ Work in Progress
 
 **Peacock’s Feathers: Strategic disclosure in mutual fund annual reports** (Seems like a forever working project)
 
-*Fund managers with good past performance tend to differentiate themselves by reporting differently, so as to distinguish their superior investing skills.*
+<!---*Fund managers with good past performance tend to differentiate themselves by reporting differently, so as to distinguish their superior investing skills.*-->
 
 
 
