@@ -22,6 +22,7 @@ Work experience
 
 * 2021-present: Research Assistant
   * China Academy of Finance Research (CAFR), SJTU
+  * Shanghai Advanced Institute for Financial Research (SAIFR)
 
   
 Skills
@@ -53,7 +54,7 @@ Publications
 
 Programming skills
 ======
-* Python, R, LateX, STATA, C++, and SAS (rudimentary)
+* Python, R, LateX, STATA, C++ (rudimentary)
 
 Language
 ======
@@ -61,7 +62,11 @@ Language
 * Mandarin & Shanghainese (Native)
 * Japanese (N-4 level)
 
-Leadership and service
+Academic service
+======
+Reviewer for The Journal of Banking and Finance.
+
+Leadership and Non-academic service
 ======
 * Board member of SJTU Kendo club
 * Shinian Kendo club
