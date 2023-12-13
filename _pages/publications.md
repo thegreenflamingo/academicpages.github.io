@@ -40,7 +40,7 @@ Using unique data on institutional investors' dialogues with the company managem
 
 
 
-**Carbon awareness and return co-movement** (with [Feng Li](https://en.saif.sjtu.edu.cn/faculty-research/li-feng))
+**Carbon awareness and return co-movement** <!---(with [Feng Li](https://en.saif.sjtu.edu.cn/faculty-research/li-feng))-->
 
 *Abstract:* 
 
