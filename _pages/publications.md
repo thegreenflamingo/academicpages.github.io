@@ -61,11 +61,11 @@ Work in Progress
 
 **Misclassified green patents** 
 
-<!---*Some non-green patents are misclassified as green patents (type II error), whereas some other green patents are misclassified to be non-green (type I error).*-->
+*Some non-green patents are misclassified as green patents (type II error), whereas some other green patents are misclassified to be non-green (type I error).*
 
 **Peacock’s Feathers: Strategic disclosure in mutual fund annual reports** (Seems like a forever working project)
 
-<!---*Fund managers with good past performance tend to differentiate themselves by reporting differently, so as to distinguish their superior investing skills.*-->
+*Fund managers with good past performance tend to differentiate themselves by reporting differently to distinguish their superior investing skills.*
 
 
 
