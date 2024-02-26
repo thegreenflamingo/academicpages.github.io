@@ -57,7 +57,7 @@ Work in Progress
 
 **Large language models as agents: ethics and preferences** (with [Hayong yun](https://broad.msu.edu/profile/yunhayon/) and [Shumiao Ouyang](https://www.shumiaoouyang.com/))
 
-<!---*Some non-green patents are misclassified as green patents (type II error), whereas some other green patents are misclassified to be non-green (type I error).*-->
+*Large language models do exhibit consistent risk preferences to a certain extent and finetuning has some unintended consequences for their risk preferences.*
 
 **Misclassified green patents** 
 
