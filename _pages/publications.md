@@ -18,8 +18,7 @@ author_profile: true
 Working Projects
 ------
 
-**Carbon emission and asset prices: new evidence from
-machine learning** (with [Feng Li](https://en.saif.sjtu.edu.cn/faculty-research/li-feng))
+**Carbon emission and asset prices: new evidence from machine learning** (with [Feng Li](https://en.saif.sjtu.edu.cn/faculty-research/li-feng))
 
 *Abstract:* 
 
@@ -55,6 +54,10 @@ This paper documents a rise in investors' carbon awareness in recent years with 
 
 Work in Progress
 ------
+
+**Large language models as agents: ethics and preferences** (with [Hayong yun](https://broad.msu.edu/profile/yunhayon/) and [Shumiao Ouyang](https://www.shumiaoouyang.com/))
+
+<!---*Some non-green patents are misclassified as green patents (type II error), whereas some other green patents are misclassified to be non-green (type I error).*-->
 
 **Misclassified green patents** 
 
