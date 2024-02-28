@@ -55,7 +55,7 @@ This paper documents a rise in investors' carbon awareness in recent years with 
 Work in Progress
 ------
 
-**Large language models as agents: ethics and preferences** (with [Hayong yun](https://broad.msu.edu/profile/yunhayon/) and [Shumiao Ouyang](https://www.shumiaoouyang.com/))
+**Large language models as agents: ethics and preferences** (with [Shumiao Ouyang](https://www.shumiaoouyang.com/) and [Hayong yun](https://broad.msu.edu/profile/yunhayon/))
 
 *Large language models do exhibit consistent risk preferences to a certain extent and finetuning has some unintended consequences for their risk preferences.*
 
