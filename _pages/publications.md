@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-Working Projects
+Working Papers
 ------
 
 **Carbon emission and asset prices: new evidence from machine learning** (with [Feng Li](https://en.saif.sjtu.edu.cn/faculty-research/li-feng))
