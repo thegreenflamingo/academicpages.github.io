@@ -59,10 +59,10 @@ Work in Progress
 
 *Large language models do exhibit consistent risk preferences to a certain extent and finetuning has some unintended consequences for their risk preferences.*
 
-**Can convolutional neural networks predict the Chinese stock market? Improved method based on large order net inflow rate** (《卷积神经网络能预测中国股市嘛？基于大单净流入率的改进方法》, with Yuqiao Fang and [Feng Li](https://en.saif.sjtu.edu.cn/faculty-research/li-feng))
+**Can Convolutional Neural Networks predict the Chinese stock market? Improved method based on large order net inflow rate** (《卷积神经网络能预测中国股市嘛？基于大单净流入率的改进方法》 in Chinese, with Yuqiao Fang and [Feng Li](https://en.saif.sjtu.edu.cn/faculty-research/li-feng))
 
 
-*We propose a simple but effective method to improve the predictability of CNN in the Chinese Stock market. *
+*We propose a simple but effective method to improve the predictability power of CNN in the Chinese Stock market.*
 
 
 **Misclassified green patents** 
