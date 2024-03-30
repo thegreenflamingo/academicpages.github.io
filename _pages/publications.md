@@ -27,6 +27,15 @@ We estimate a large data panel of carbon emissions by US firms with a machine le
 Presentations at *CICF 2023*, *2023CFRI&CIRF Joint Conference*, *SBSICF 2023*, *CMCSR 2023*. (Manuscript [here](https://github.com/thegreenflamingo/academicpages.github.io/blob/master/_publications/carbon.pdf), slides [here](https://github.com/thegreenflamingo/academicpages.github.io/blob/master/_publications/carbon_emission_pre.pdf))
 
 
+**Carbon awareness and return co-movement** (with [Feng Li](https://en.saif.sjtu.edu.cn/faculty-research/li-feng))
+
+*Abstract:* 
+
+This paper documents a rise in investors' carbon awareness in recent years with a novel model-free approach. We show that for companies that produce carbon emissions on a similar scale, the correlation in their stock price returns is higher. This emission-return correlation only became significant after 2012 and has been steadily increasing ever since, whereas it was barely significant before 2012. We provide evidence showing that this co-movement is driven by investor flows as investors purchase green stocks and divest brown stocks, and is stronger when investors pay more attention to environmental news. To address the endogeneity issue, we adopt a state's emission reduction initiatives that exogenously increase firms' emission similarity. Overall, this paper examines whether investors care about carbon risk and the pricing of carbon risk from a different perspective.
+
+(Manuscript [here](https://github.com/thegreenflamingo/academicpages.github.io/blob/master/_publications/carbonawareness.pdf))
+
+
 
 
 **Private Responsible Engagements and ESG Performance** (with [Danting Chang](https://www.glxy.sdu.edu.cn/info/1091/5914.htm) and [Guanmin Liao](https://en.rmbs.ruc.edu.cn/Faculty/Faculty/allTeacher/22dbcf0d34ad4157bedd814af4b5e70f.htm) )
@@ -39,16 +48,9 @@ Using unique data on institutional investors’ communications with the company 
 
 
 
-**Carbon awareness and return co-movement** (with [Feng Li](https://en.saif.sjtu.edu.cn/faculty-research/li-feng))
-
-*Abstract:* 
-
-This paper documents a rise in investors' carbon awareness in recent years with a novel model-free approach. We show that for companies that produce carbon emissions on a similar scale, the correlation in their stock price returns is higher. This emission-return correlation only became significant after 2012 and has been steadily increasing ever since, whereas it was barely significant before 2012. We provide evidence showing that this co-movement is driven by investor flows as investors purchase green stocks and divest brown stocks, and is stronger when investors pay more attention to environmental news. To address the endogeneity issue, we adopt a state's emission reduction initiatives that exogenously increase firms' emission similarity. Overall, this paper examines whether investors care about carbon risk and the pricing of carbon risk from a different perspective.
-
-(Manuscript [here](https://github.com/thegreenflamingo/academicpages.github.io/blob/master/_publications/carbonawareness.pdf))
 
 
-
+<!---
 
 
 
@@ -74,7 +76,7 @@ Work in Progress
 *Fund managers with good past performance tend to differentiate themselves by reporting differently to distinguish their superior investing skills.*
 
 
-
+-->
 
 
 
