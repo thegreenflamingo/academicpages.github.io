@@ -36,7 +36,7 @@ Presentations at *CICF 2023*, *2023CFRI&CIRF Joint Conference*, *SBSICF 2023*, *
 
 *Abstract:* 
 
-*Institutional investors pay unpublic visits to firms, which improves firms' ESG performance.*
+*Institutional investors visit firms "privately", which improves firms' ESG performance.*
 
 <!---(Manuscript [here](https://github.com/thegreenflamingo/academicpages.github.io/blob/master/_publications/rspengg.pdf))-->
 
