@@ -20,7 +20,7 @@ Working Papers
 
 **Carbon emission and asset prices: new evidence from machine learning** (with [Feng Li](https://en.saif.sjtu.edu.cn/faculty-research/li-feng))
 
-*We estimate a large data panel of carbon emissions by US firms with a machine learning algorithm known as XGBoost.*Presentations at *CICF 2023*, *2023CFRI&CIRF Joint Conference*, *SBSICF 2023*, *CMCSR 2023*. (Manuscript [here](https://github.com/thegreenflamingo/academicpages.github.io/blob/master/_publications/carbon.pdf), slides [here](https://github.com/thegreenflamingo/academicpages.github.io/blob/master/_publications/carbon_emission_pre.pdf))
+*We estimate a large data panel of carbon emissions by US firms with a machine learning algorithm known as XGBoost.* Presentations at *CICF 2023*, *2023CFRI&CIRF Joint Conference*, *SBSICF 2023*, *CMCSR 2023*. (Manuscript [here](https://github.com/thegreenflamingo/academicpages.github.io/blob/master/_publications/carbon.pdf), slides [here](https://github.com/thegreenflamingo/academicpages.github.io/blob/master/_publications/carbon_emission_pre.pdf))
 
 
 **Carbon awareness and return co-movement** (with [Feng Li](https://en.saif.sjtu.edu.cn/faculty-research/li-feng))
