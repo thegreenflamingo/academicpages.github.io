@@ -25,7 +25,7 @@ Working Papers
 
 **Carbon awareness and return co-movement** (with [Feng Li](https://en.saif.sjtu.edu.cn/faculty-research/li-feng))
 
-*Investors care about carbon risk only after 2012.*(Manuscript [here](https://github.com/thegreenflamingo/academicpages.github.io/blob/master/_publications/carbonawareness.pdf))
+*Investors care about carbon risk only after 2012.* (Manuscript [here](https://github.com/thegreenflamingo/academicpages.github.io/blob/master/_publications/carbonawareness.pdf))
 
 
 **Private Responsible Engagements and ESG Performance** (with [Danting Chang](https://www.glxy.sdu.edu.cn/info/1091/5914.htm) and [Guanmin Liao](https://en.rmbs.ruc.edu.cn/Faculty/Faculty/allTeacher/22dbcf0d34ad4157bedd814af4b5e70f.htm) )
