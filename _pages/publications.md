@@ -30,6 +30,9 @@ Working Papers
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Investors care about carbon risk only after 2012.* (Manuscript [here](https://github.com/thegreenflamingo/academicpages.github.io/blob/master/_publications/carbonawareness.pdf))
 
 
+Work in Progress
+------
+
 **Private Responsible Engagements and ESG Performance** (with [Danting Chang](https://www.glxy.sdu.edu.cn/info/1091/5914.htm) and [Guanmin Liao](https://en.rmbs.ruc.edu.cn/Faculty/Faculty/allTeacher/22dbcf0d34ad4157bedd814af4b5e70f.htm) )
 
 
@@ -38,12 +41,11 @@ Working Papers
 <!---(Manuscript [here](https://github.com/thegreenflamingo/academicpages.github.io/blob/master/_publications/rspengg.pdf))-->
 
 
-Work in Progress
-------
-
+<!---
 **Large language models as agents: ethics and preferences** (with [Shumiao Ouyang](https://www.shumiaoouyang.com/) and [Hayong yun](https://broad.msu.edu/profile/yunhayon/))
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Large language models do exhibit consistent risk preferences to a certain extent and finetuning has some unintended consequences for their risk preferences.*
+-->
 
 **Can Convolutional Neural Networks predict the Chinese stock market? Improved method based on large order net inflow rate** (《卷积神经网络能否预测中国股市？基于大单净流入率的改进方法》 in Chinese, with Yuqiao Fang and [Feng Li](https://en.saif.sjtu.edu.cn/faculty-research/li-feng))
 
