@@ -53,9 +53,9 @@ Work in Progress
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*We propose a simple but effective method to improve the predictability power of CNN in the Chinese Stock market.*
 
 
-**Misclassified green patents** 
+<!---**Misclassified green patents** 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Some non-green patents are misclassified as green patents (type II error), whereas some other green patents are misclassified to be non-green (type I error).*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Some non-green patents are misclassified as green patents (type II error), whereas some other green patents are misclassified to be non-green (type I error).*-->
 
 <!---
 **Peacock’s Feathers: Strategic disclosure in mutual fund annual reports** (Seems like a forever working project)
