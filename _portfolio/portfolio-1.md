@@ -2,7 +2,6 @@
 title: "Text-based mutual fund strategy similarity"
 excerpt: "<br/><img src='/images/portfolio/csbycategory.png'>"
 collection: portfolio
-date:2023-04-01
 ---
 This databank contains a fund-year level "review" similarity ratio either on a cross-sectional level or a time-series level. I borrow the idea from Hoberg and Phillips (2010， 2016) and Cohen et al. (2020) for their insightful research. 
 
