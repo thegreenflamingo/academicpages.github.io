@@ -11,7 +11,7 @@ redirect_from:
 Xingjian ZHENG (郑行健)
 ======
 
-Welcome to my site! I am currently a fourth-year PhD candidate in Finance at Shanghai Advanced Institute of Finance (SAIF), SJTU. My research interests involve two questions: (1) How does fintech correct investors' behavioral biases? and (2) How to combine fintech (textual analysis, machine learning, LLM, big data, etc.) with traditional asset pricing and corporate finance research topics? Also, I am keen to conduct A/B tests on fintech or marketplace lending platforms and experiments under the topic of ESG issues. 
+Welcome to my site! I am currently a fourth-year PhD candidate in Finance at Shanghai Advanced Institute of Finance (SAIF), SJTU. My research interests involve two questions: (1) How does fintech correct investors' behavioral biases? and (2) How to combine fintech (textual analysis, machine learning, LLM, big data, etc.) with traditional asset pricing and corporate finance research topics? 
 
 I am currently working on multiple projects related to fintech/ESG. Any comment or discussion is more than welcome. 
 
