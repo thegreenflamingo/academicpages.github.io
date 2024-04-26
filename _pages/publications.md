@@ -46,11 +46,11 @@ Work in Progress
 <!---(Manuscript [here](https://github.com/thegreenflamingo/academicpages.github.io/blob/master/_publications/rspengg.pdf))-->
 
 
-<!---
+
 **Large language models as agents: ethics and preferences** (with [Shumiao Ouyang](https://www.shumiaoouyang.com/) and [Hayong yun](https://broad.msu.edu/profile/yunhayon/))
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Large language models do exhibit consistent risk preferences to a certain extent and finetuning has some unintended consequences for their risk preferences.*
--->
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Large language models do exhibit consistent risk preferences and finetuning has unintended consequences on their risk preferences.*
+
 
 
 
