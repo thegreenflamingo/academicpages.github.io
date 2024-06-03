@@ -27,7 +27,7 @@ Work experience
   
 Skills
 ======
-* Powerlifting (Inspired by [Prof. Lauren Cohen](https://www.laurenhcohen.com/hobbies))
+* Powerlifting (Inspired by Prof. [Lauren Cohen](https://www.laurenhcohen.com/hobbies))
 * Kendo
 <!--* Kendo
 #* Skill 3-->
