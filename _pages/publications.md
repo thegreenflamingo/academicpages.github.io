@@ -52,9 +52,9 @@ Work in Progress
 <!---(Manuscript [here](https://github.com/thegreenflamingo/academicpages.github.io/blob/master/_publications/rspengg.pdf))-->
 
 
-**Deep learning asset prices with multi-modeling** (with Yuqiao Fang)
+**Multimodal deep learning and asset prices** (with Yuqiao Fang)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*We use various types of data (images, numerics, text) with a novel multi-modeling approach to predict asset prices.*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*We use various types of data (images, numerics, text) with a novel multimodal approach to predict asset prices.*
 
 
 
