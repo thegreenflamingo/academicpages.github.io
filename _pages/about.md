@@ -15,4 +15,6 @@ Welcome to my site! I am currently a fourth-year PhD candidate in Finance at Sha
 
 My committee chair is Prof. [Feng LI](https://en.saif.sjtu.edu.cn/faculty-research/li-feng), and I am expected to graduate in 2026-27. 
 
-You can reach me at *211 West Huaihai Road, Datong Plaza, Shanghai Jiao Tong University, Shanghai, China* 200030. Hope to see you in person!
+You can reach me at *211 West Huaihai Road, Datong Plaza, Shanghai Jiao Tong University, Shanghai, China* 200030. 
+
+I will visit Havard Business School in the AY 2024-2025. Hope to see you in person!
