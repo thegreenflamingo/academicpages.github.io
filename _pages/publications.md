@@ -54,7 +54,7 @@ Work in Progress
 
 **Multimodal deep learning and asset prices** (with Yuqiao Fang)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*We use various types of data (images, numerics, text) with a novel multimodal approach to predict asset prices.*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*We use a transformer-based architecture that combines images and text data (as well as numerical data) to predict stock returns.*
 
 
 
