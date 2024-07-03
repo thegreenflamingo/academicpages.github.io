@@ -24,11 +24,21 @@ Work experience
   * China Academy of Finance Research (CAFR), SJTU
   * Shanghai Advanced Institute for Financial Research (SAIFR)
 
-  
-Skills
+Programming skills
 ======
-* Powerlifting (Inspired by Prof. [Lauren Cohen](https://www.laurenhcohen.com/hobbies))
-* Kendo
+* Python, R, LateX, STATA, C++ (rudimentary)
+
+Language
+======
+* English (Fluent)
+* Mandarin & Shanghainese (Native)
+* Japanese (N-4 level)
+
+Academic service
+======
+Reviewer for The Journal of Banking and Finance.
+  
+
 <!--* Kendo
 #* Skill 3-->
 
@@ -52,26 +62,18 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>-->
 
-Programming skills
+Skills
 ======
-* Python, R, LateX, STATA, C++ (rudimentary)
-
-Language
-======
-* English (Fluent)
-* Mandarin & Shanghainese (Native)
-* Japanese (N-4 level)
-
-Academic service
-======
-Reviewer for The Journal of Banking and Finance.
-
+* Powerlifting (Inspired by Prof. [Lauren Cohen](https://www.laurenhcohen.com/hobbies))
+* Kendo
+  
 Leadership and Non-academic service
 ======
 * Board member of SJTU Kendo club
 * Shinian Kendo club
-* SJTU investment club
-* SJTU fitness club
+* Fitness coach of SJTU fitness club
+* Advisory member for SJTU investment club
+  
 
 
-(A downloadable file can be found [here](https://github.com/thegreenflamingo/academicpages.github.io/blob/master/files/CV%20-%20Xingjian%20Zheng-%204th%20year%20phd%20candidate.pdf))
+<!--(A downloadable file can be found [here](https://github.com/thegreenflamingo/academicpages.github.io/blob/master/files/CV%20-%20Xingjian%20Zheng-%204th%20year%20phd%20candidate.pdf))-->
