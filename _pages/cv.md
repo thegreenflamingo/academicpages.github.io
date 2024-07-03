@@ -62,7 +62,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>-->
 
-Skills
+Other skills
 ======
 * Powerlifting (Inspired by Prof. [Lauren Cohen](https://www.laurenhcohen.com/hobbies))
 * Kendo
