@@ -20,9 +20,11 @@ Working Papers
 
 **Carbon emission and asset prices: new evidence from machine learning** (with [Feng Li](https://en.saif.sjtu.edu.cn/faculty-research/li-feng))
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*We predict carbon emissions of US-listed firms with XGBoost and find reversed carbon premium after 2016. (This is my second-year summer paper.)* 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*We predict the carbon emissions of US-listed firms with XGBoost and find a reversed carbon premium after 2016. (This is my second-year summer paper.)* 
 
-<div style="text-indent: 2em;">*We predict carbon emissions of US-listed firms with XGBoost and find reversed carbon premium after 2016. (This is my second-year summer paper.)* </div>
+<blockquote>
+We predict the carbon emissions of US-listed firms with XGBoost and find a reversed carbon premium after 2016. (This is my second-year summer paper.)
+</blockquote>
 
 <!---&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Presentations at CICF 2023, 2023CFRI&CIRF Joint Conference, SBSICF 2023, CMCSR 2023. (Manuscript [here](https://github.com/thegreenflamingo/academicpages.github.io/blob/master/_publications/carbon.pdf), slides [here](https://github.com/thegreenflamingo/academicpages.github.io/blob/master/_publications/carbon_emission_pre.pdf))*-->
 
