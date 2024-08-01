@@ -50,7 +50,7 @@ Presentations at *CFRC2024*.
 
 <blockquote>
 Large language models do exhibit consistent risk preferences and ethical fine-tuning has unintended consequences on their risk preferences.
-Presentations at ABFER-JFDS 2024, OxNLP, CREDIT2024. 
+Presentations at *ABFER-JFDS 2024*, *OxNLP*, *CREDIT2024*. 
 </blockquote>
 <!---&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Large language models do exhibit consistent risk preferences and ethical finetuning has unintended consequences on their risk preferences.*-->
 
