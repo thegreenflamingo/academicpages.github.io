@@ -25,6 +25,7 @@ Working Papers
 <blockquote>
 We predict the carbon emissions of US-listed firms with XGBoost and find a reversed carbon premium after 2016. (This is my second-year summer paper.)
 
+
 Presentations at CICF2023, CFRI-CIRF 2023 joint conference, CMCSR2023, SBSICF2023
 </blockquote>
 
@@ -40,6 +41,8 @@ Presentations at CICF2023, CFRI-CIRF 2023 joint conference, CMCSR2023, SBSICF202
 
 <blockquote>
 We propose a simple but effective method to improve the predictability power of CNN in the Chinese Stock market.
+
+  
 Presentations at CFAC2024. 
 </blockquote>
 
@@ -51,6 +54,8 @@ Presentations at CFAC2024.
 
 <blockquote>
 Large language models do exhibit consistent risk preferences and ethical fine-tuning has unintended consequences on their risk preferences.
+
+  
 Presentations at ABFER-JFDS 2024, OxNLP, CREDIT2024. 
 </blockquote>
 <!---&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Large language models do exhibit consistent risk preferences and ethical finetuning has unintended consequences on their risk preferences.*-->
