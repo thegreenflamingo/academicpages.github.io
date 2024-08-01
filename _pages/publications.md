@@ -24,6 +24,7 @@ Working Papers
 
 <blockquote>
 We predict the carbon emissions of US-listed firms with XGBoost and find a reversed carbon premium after 2016. (This is my second-year summer paper.)
+Presentations at *CICF2023*, *CFRI-CIRF 2023 joint conference*, *CMCSR2023*, *SBSICF2023*
 </blockquote>
 
 <!---&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Presentations at CICF 2023, 2023CFRI&CIRF Joint Conference, SBSICF 2023, CMCSR 2023. (Manuscript [here](https://github.com/thegreenflamingo/academicpages.github.io/blob/master/_publications/carbon.pdf), slides [here](https://github.com/thegreenflamingo/academicpages.github.io/blob/master/_publications/carbon_emission_pre.pdf))*-->
@@ -38,6 +39,7 @@ We predict the carbon emissions of US-listed firms with XGBoost and find a rever
 
 <blockquote>
 We propose a simple but effective method to improve the predictability power of CNN in the Chinese Stock market.
+Presentations at *CFRC2024*. 
 </blockquote>
 
 <!---&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*We propose a simple but effective method to improve the predictability power of CNN in the Chinese Stock market.*--> <!---(Manuscript [here](https://github.com/thegreenflamingo/academicpages.github.io/blob/master/_publications/CNN.pdf))-->
@@ -48,6 +50,7 @@ We propose a simple but effective method to improve the predictability power of 
 
 <blockquote>
 Large language models do exhibit consistent risk preferences and ethical fine-tuning has unintended consequences on their risk preferences.
+Presentations at ABFER-JFDS 2024, OxNLP, CREDIT2024. 
 </blockquote>
 <!---&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Large language models do exhibit consistent risk preferences and ethical finetuning has unintended consequences on their risk preferences.*-->
 
