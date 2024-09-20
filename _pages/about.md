@@ -11,10 +11,8 @@ redirect_from:
 Xingjian ZHENG (郑行健)
 ======
 
-Welcome to my site! I am currently a fourth-year PhD candidate in Finance at Shanghai Advanced Institute of Finance (SAIF), SJTU. My research interests involve two questions: (1) How does fintech correct investors' behavioral biases? and (2) How to combine fintech (textual analysis, machine learning, LLM, big data, etc.) with traditional asset pricing and corporate finance research topics? 
+Welcome to my site! I am currently a fourth-year PhD candidate in Finance at Shanghai Advanced Institute of Finance (SAIF), SJTU. My research interests involve two questions: (1) How does fintech correct investors' behavioral biases? and (2) How to combine fintech (LLM, machine learning, big data, etc.) with traditional asset pricing research topics? 
 
 My committee chair is Prof. [Feng LI](https://en.saif.sjtu.edu.cn/faculty-research/li-feng), and I am expected to graduate in 2026-27. 
 
-You can reach me at *211 West Huaihai Road, Datong Plaza, Shanghai Jiao Tong University, Shanghai, China* 200030. 
-
-I will visit Havard Business School in the AY 2024-2025. Hope to see you in person!
+I am visiting Havard Business School this academic year. Hope to see you in person! 
