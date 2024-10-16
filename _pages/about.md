@@ -15,4 +15,4 @@ Welcome to my site! I am currently a fifth-year PhD candidate in Finance at Shan
 
 My committee chair is Prof. [Feng LI](https://en.saif.sjtu.edu.cn/faculty-research/li-feng), and I am expected to graduate in 2026-27. 
 
-I am currently visiting Havard Business School this academic year advised by Prof. [Lauren Cohen](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=340063). Hope to see you in person! 
+I am currently visiting Havard Business School this academic year, advised by Prof. [Lauren Cohen](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=340063). Hope to see you in person! 
