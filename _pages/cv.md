@@ -21,7 +21,7 @@ Work experience
 * 2020-2021: Research Assistant
   * Luohan Academy, Alibaba
 
-* 2021-present: Research Assistant
+* 2021-2023: Research Assistant
   * China Academy of Finance Research (CAFR), SJTU
   * Shanghai Advanced Institute for Financial Research (SAIFR)
 
