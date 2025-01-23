@@ -32,9 +32,6 @@ Presentations at CICF2023, CFRI-CIRF 2023 joint conference, CMCSR2023, SBSICF202
 <!---&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Presentations at CICF 2023, 2023CFRI&CIRF Joint Conference, SBSICF 2023, CMCSR 2023. (Manuscript [here](https://github.com/thegreenflamingo/academicpages.github.io/blob/master/_publications/carbon.pdf), slides [here](https://github.com/thegreenflamingo/academicpages.github.io/blob/master/_publications/carbon_emission_pre.pdf))*-->
 
 
-<!---**Carbon awareness and return co-movement** (with [Feng Li](https://en.saif.sjtu.edu.cn/faculty-research/li-feng))
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Investors care about carbon risk only after 2012.* (Manuscript [here](https://github.com/thegreenflamingo/academicpages.github.io/blob/master/_publications/carbonawareness.pdf))-->
 
 
 **Clustered by images: Convolutional neural networks, investor heterogeneity, and Chinese stock market predictability** (《图以类聚：卷积神经网络，投资者异质性与中国股市可预测性》 in Chinese, with Yuqiao Fang and [Feng Li](https://en.saif.sjtu.edu.cn/faculty-research/li-feng))
@@ -43,7 +40,7 @@ Presentations at CICF2023, CFRI-CIRF 2023 joint conference, CMCSR2023, SBSICF202
 We propose a simple but effective method to improve the predictability power of CNN in the Chinese Stock market.
 
   
-Presentations at CFAC2024. 
+Presentations at CFAC2024. Second round R&R at Journal of Management Sciences in China （《管理科学学报》）
 </blockquote>
 
 <!---&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*We propose a simple but effective method to improve the predictability power of CNN in the Chinese Stock market.*--> <!---(Manuscript [here](https://github.com/thegreenflamingo/academicpages.github.io/blob/master/_publications/CNN.pdf))-->
@@ -56,7 +53,7 @@ Presentations at CFAC2024.
 Large language models do exhibit consistent risk preferences and ethical fine-tuning has unintended consequences on their risk preferences.
 
   
-Presentations at ABFER-JFDS 2024, OxNLP, CREDIT2024. 
+Presentations at ABFER-JFDS 2024, OxNLP, CREDIT2024, SJTU, PKU
 </blockquote>
 <!---&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Large language models do exhibit consistent risk preferences and ethical finetuning has unintended consequences on their risk preferences.*-->
 
@@ -80,6 +77,12 @@ We use a transformer-based architecture that combines images and text data (as w
 </blockquote>
 <!---&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*We use a transformer-based architecture that combines images and text data (as well as numerical data) to predict stock returns.*-->
 
+
+**Improving Investor Trading Habit via Digital Companion** (with [Xiaomeng Lu](https://sites.google.com/view/xiaomenglu/home), [Jun Qian](https://fisf.fudan.edu.cn/en_show-112-69.html) and [Shang-Jin Wei](https://business.columbia.edu/faculty/people/shang-jin-wei))
+
+<blockquote>
+We conduct experiments and find that digital nudging improves investor behavior.
+</blockquote>
 
 
 
