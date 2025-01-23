@@ -62,6 +62,13 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>-->
 
+Honors & Awards
+======
+* National Doctorate Scholarship
+* China Scholarship Council Scholarship
+* SJTU Graduate Student Scholarship
+* Tianjin Municipal Government Scholarship
+
 Other skills
 ======
 * Powerlifting (Inspired by Prof. [Lauren Cohen](https://www.laurenhcohen.com/hobbies))
@@ -69,10 +76,9 @@ Other skills
   
 Leadership and Non-academic service
 ======
-* Board member of SJTU Kendo club
 * Shinian Kendo club
-* Fitness coach of SJTU fitness club
-* Advisory member for SJTU investment club
+* SJTU fitness club
+* SJTU investment club
   
 
 
