@@ -23,7 +23,7 @@ Working Papers
 <!---&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*We predict the carbon emissions of US-listed firms with XGBoost and find a reversed carbon premium after 2016. (This is my second-year summer paper.)* -->
 
 <blockquote>
-We predict the carbon emissions of US-listed firms with XGBoost and find a reversed carbon premium after 2016. (This is my second-year summer paper.)<br><br>
+We predict the carbon emissions of US-listed firms with XGBoost and find a reversed carbon premium after 2016. (This is my second-year summer paper.)<br>
 
 ---
 
@@ -38,7 +38,7 @@ Presentations at CICF2023, CFRI-CIRF 2023 joint conference, CMCSR2023, SBSICF202
 **Clustered by images: Convolutional neural networks, investor heterogeneity, and Chinese stock market predictability** (《图以类聚：卷积神经网络，投资者异质性与中国股市可预测性》 in Chinese, with Yuqiao Fang and [Feng Li](https://en.saif.sjtu.edu.cn/faculty-research/li-feng))
 
 <blockquote>
-We propose a simple but effective method to improve the predictability power of CNN in the Chinese Stock market.<br><br>
+We propose a simple but effective method to improve the predictability power of CNN in the Chinese Stock market.<br>
 
 ---
 
@@ -52,7 +52,7 @@ Presentations at CFAC2024. Second round R&R at Journal of Management Sciences in
 
 
 <blockquote>
-Large language models do exhibit consistent risk preferences and ethical fine-tuning has unintended consequences on their risk preferences.<br><br>
+Large language models do exhibit consistent risk preferences and ethical fine-tuning has unintended consequences on their risk preferences.<br>
 
 ---
 
@@ -99,7 +99,7 @@ We use a transformer-based architecture that combines images and text data (as w
 
 
 <blockquote>
-We conduct experiments and find that digital nudging improves investor behavior.<br><br>
+We conduct experiments and find that digital nudging improves investor behavior.<br>
 
 ---
 
