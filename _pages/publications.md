@@ -61,6 +61,20 @@ Presentations at ABFER-JFDS 2024, OxNLP, CREDIT2024, SJTU, PKU
 <!---&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Large language models do exhibit consistent risk preferences and ethical finetuning has unintended consequences on their risk preferences.*-->
 
 
+**Memory, Complexity, and Generative AI** 
+
+
+<blockquote>
+Large language models rely on associative memory to make decisions. Task complexity also greatly affects their decision-making process. 
+
+
+</blockquote>
+<!---&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Large language models do exhibit consistent risk preferences and ethical finetuning has unintended consequences on their risk preferences.*-->
+
+
+
+
+
 
 Work in Progress
 ------
