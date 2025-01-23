@@ -18,7 +18,7 @@ author_profile: true
 Working Papers
 ------
 
-##**Carbon emission and asset prices: new evidence from machine learning** (with [Feng Li](https://en.saif.sjtu.edu.cn/faculty-research/li-feng))
+**Carbon emission and asset prices: new evidence from machine learning** (with [Feng Li](https://en.saif.sjtu.edu.cn/faculty-research/li-feng))
 
 <!---&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*We predict the carbon emissions of US-listed firms with XGBoost and find a reversed carbon premium after 2016. (This is my second-year summer paper.)* -->
 
@@ -35,7 +35,7 @@ Presentations at CICF2023, CFRI-CIRF 2023 joint conference, CMCSR2023, SBSICF202
 
 
 
-##**Clustered by images: Convolutional neural networks, investor heterogeneity, and Chinese stock market predictability** (《图以类聚：卷积神经网络，投资者异质性与中国股市可预测性》 in Chinese, with Yuqiao Fang and [Feng Li](https://en.saif.sjtu.edu.cn/faculty-research/li-feng))
+**Clustered by images: Convolutional neural networks, investor heterogeneity, and Chinese stock market predictability** (《图以类聚：卷积神经网络，投资者异质性与中国股市可预测性》 in Chinese, with Yuqiao Fang and [Feng Li](https://en.saif.sjtu.edu.cn/faculty-research/li-feng))
 
 <blockquote>
 We propose a simple but effective method to improve the predictability power of CNN in the Chinese Stock market.
@@ -48,7 +48,7 @@ Presentations at CFAC2024. Second round R&R at Journal of Management Sciences in
 <!---&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*We propose a simple but effective method to improve the predictability power of CNN in the Chinese Stock market.*--> <!---(Manuscript [here](https://github.com/thegreenflamingo/academicpages.github.io/blob/master/_publications/CNN.pdf))-->
 
 
-##**How Ethical Should AI Be? How AI Alignment Shapes the Risk Preferences of LLMs** (with [Shumiao Ouyang](https://www.shumiaoouyang.com/) and [Hayong yun](https://broad.msu.edu/profile/yunhayon/))
+**How Ethical Should AI Be? How AI Alignment Shapes the Risk Preferences of LLMs** (with [Shumiao Ouyang](https://www.shumiaoouyang.com/) and [Hayong yun](https://broad.msu.edu/profile/yunhayon/))
 
 
 <blockquote>
