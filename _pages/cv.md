@@ -14,6 +14,7 @@ Education
 ======
 * B.S. in Economics, COME, Tianjin University, 2020 (with distinction)
 * Ph.D. in Finance, SAIF, Shanghai Jiao Tong University, 2026 (expected)
+* Visiting Ph.D. student in Business Economics, Harvard University, 2024-2025 
 
 Work experience
 ======
