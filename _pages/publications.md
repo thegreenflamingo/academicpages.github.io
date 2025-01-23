@@ -85,7 +85,11 @@ We use a transformer-based architecture that combines images and text data (as w
 
 
 <blockquote>
-We conduct experiments and find that digital nudging improves investor behavior.
+We conduct experiments and find that digital nudging improves investor behavior.<br><br>
+
+---
+
+Partnered with the Ant Group. 
 </blockquote>
 
 
