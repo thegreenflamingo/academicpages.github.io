@@ -25,6 +25,7 @@ Working Papers
 <blockquote>
 We predict the carbon emissions of US-listed firms with XGBoost and find a reversed carbon premium after 2016. (This is my second-year summer paper.)
 
+---
 
 Presentations at CICF2023, CFRI-CIRF 2023 joint conference, CMCSR2023, SBSICF2023
 </blockquote>
@@ -39,7 +40,8 @@ Presentations at CICF2023, CFRI-CIRF 2023 joint conference, CMCSR2023, SBSICF202
 <blockquote>
 We propose a simple but effective method to improve the predictability power of CNN in the Chinese Stock market.
 
-  
+---
+
 Presentations at CFAC2024. Second round R&R at Journal of Management Sciences in China （《管理科学学报》）
 </blockquote>
 
@@ -52,7 +54,8 @@ Presentations at CFAC2024. Second round R&R at Journal of Management Sciences in
 <blockquote>
 Large language models do exhibit consistent risk preferences and ethical fine-tuning has unintended consequences on their risk preferences.
 
-  
+---
+
 Presentations at ABFER-JFDS 2024, OxNLP, CREDIT2024, SJTU, PKU
 </blockquote>
 <!---&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Large language models do exhibit consistent risk preferences and ethical finetuning has unintended consequences on their risk preferences.*-->
@@ -79,6 +82,7 @@ We use a transformer-based architecture that combines images and text data (as w
 
 
 ##**Improving Investor Trading Habit via Digital Companion** (with [Xiaomeng Lu](https://sites.google.com/view/xiaomenglu/home), [Jun Qian](https://fisf.fudan.edu.cn/en_show-112-69.html) and [Shang-Jin Wei](https://business.columbia.edu/faculty/people/shang-jin-wei))
+
 
 <blockquote>
 We conduct experiments and find that digital nudging improves investor behavior.
