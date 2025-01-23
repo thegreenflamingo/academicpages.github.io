@@ -73,7 +73,7 @@ Work in Progress
 <!---(Manuscript [here](https://github.com/thegreenflamingo/academicpages.github.io/blob/master/_publications/rspengg.pdf))-->
 
 
-##**Multimodal deep learning and asset prices** (with Yuqiao Fang)
+**Multimodal deep learning and asset prices** (with Yuqiao Fang)
 
 <blockquote>
 We use a transformer-based architecture that combines images and text data (as well as numerical data) to predict stock returns.
@@ -81,7 +81,7 @@ We use a transformer-based architecture that combines images and text data (as w
 <!---&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*We use a transformer-based architecture that combines images and text data (as well as numerical data) to predict stock returns.*-->
 
 
-##**Improving Investor Trading Habit via Digital Companion** (with [Xiaomeng Lu](https://sites.google.com/view/xiaomenglu/home), [Jun Qian](https://fisf.fudan.edu.cn/en_show-112-69.html) and [Shang-Jin Wei](https://business.columbia.edu/faculty/people/shang-jin-wei))
+**Improving Investor Trading Habit via Digital Companion** (with [Xiaomeng Lu](https://sites.google.com/view/xiaomenglu/home), [Jun Qian](https://fisf.fudan.edu.cn/en_show-112-69.html) and [Shang-Jin Wei](https://business.columbia.edu/faculty/people/shang-jin-wei))
 
 
 <blockquote>
