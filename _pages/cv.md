@@ -67,8 +67,9 @@ Honors & Awards
 ======
 * National Doctorate Scholarship
 * China Scholarship Council Scholarship
+* Municipal Government Scholarship
 * SJTU Graduate Student Scholarship
-* Tianjin Municipal Government Scholarship
+
 
 Other skills
 ======
