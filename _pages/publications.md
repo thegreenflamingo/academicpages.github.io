@@ -61,7 +61,7 @@ Presentations at ABFER-JFDS 2024, OxNLP, CREDIT2024, SJTU, PKU
 <!---&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Large language models do exhibit consistent risk preferences and ethical finetuning has unintended consequences on their risk preferences.*-->
 
 
-**Memory, Complexity, and Generative AI** 
+**Memory, Complexity, and Generative AI** (solo)
 
 
 <blockquote>
