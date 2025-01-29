@@ -66,7 +66,7 @@ Publications
 Honors & Awards
 ======
 * National Doctorate Scholarship
-* China Scholarship Council Award
+* China Scholarship Council Fellowship
 * Municipal Government Scholarship
 * SJTU Graduate Student Scholarship
 
