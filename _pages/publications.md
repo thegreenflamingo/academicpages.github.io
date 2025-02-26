@@ -65,12 +65,11 @@ Presentations at ABFER-JFDS 2024, OxNLP, GPI, Oxford Finance, SBS Board, SAIF, P
 
 
 <blockquote>
-Large language models rely on associative memory to make decisions. Task complexity also greatly affects their decision-making process. 
+Large language models rely on associative memory to make decisions, even if the memories are entirely unrelated to the decision domain. 
 
 ---
 
 Presentations at Harvard, SAIF. 
-
 </blockquote>
 <!---&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Large language models do exhibit consistent risk preferences and ethical finetuning has unintended consequences on their risk preferences.*-->
 
@@ -102,7 +101,7 @@ We use a transformer-based architecture that combines images and text data (as w
 
 
 <blockquote>
-We conduct experiments and find that digital nudging improves investor behavior.<br>
+We conducted experiments and found that digital nudging is effective at changing investors' behavior.<br>
 
 ---
 
