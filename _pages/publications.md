@@ -67,6 +67,9 @@ Presentations at ABFER-JFDS 2024, OxNLP, GPI, Oxford Finance, SBS Board, SAIF, P
 <blockquote>
 Large language models rely on associative memory to make decisions. Task complexity also greatly affects their decision-making process. 
 
+---
+
+Presentations at Harvard, SAIF. 
 
 </blockquote>
 <!---&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Large language models do exhibit consistent risk preferences and ethical finetuning has unintended consequences on their risk preferences.*-->
