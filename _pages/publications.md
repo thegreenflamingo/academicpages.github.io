@@ -65,11 +65,11 @@ Presentations at ABFER-JFDS 2024, OxNLP, GPI, Oxford Finance, SBS Board, SAIF, P
 
 
 <blockquote>
-Large language models rely on associative memory to make decisions, even if the memories are entirely unrelated to the decision domain. 
+Large language models rely on associative memory to make decisions, even if the memories are entirely unrelated to the decision domain. <br>
 
 ---
 
-Presentations at Harvard, SAIF. 
+Presentations at Harvard, SAIF. Scheduled presentations at CICF2025, ABFER 2025
 </blockquote>
 <!---&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Large language models do exhibit consistent risk preferences and ethical finetuning has unintended consequences on their risk preferences.*-->
 
