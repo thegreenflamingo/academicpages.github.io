@@ -69,7 +69,7 @@ Large language models rely on associative memory to make decisions, even if the 
 
 ---
 
-Presentations at Harvard, SAIF. Scheduled presentations at CICF2025, ABFER 2025
+Presentations at Harvard, SAIF. Scheduled presentations at CICF2025, ABFER 2025 Poster session
 </blockquote>
 <!---&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Large language models do exhibit consistent risk preferences and ethical finetuning has unintended consequences on their risk preferences.*-->
 
