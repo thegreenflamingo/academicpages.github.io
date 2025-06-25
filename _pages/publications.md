@@ -89,10 +89,10 @@ Work in Progress
 <!---(Manuscript [here](https://github.com/thegreenflamingo/academicpages.github.io/blob/master/_publications/rspengg.pdf))-->
 
 
-**Multimodal deep learning and asset prices** (with Yuqiao Fang)
+<!---**Multimodal deep learning and asset prices** (with Yuqiao Fang)
 
 <blockquote>
-We use a transformer-based architecture that combines images and text data (as well as numerical data) to predict stock returns.
+We use a transformer-based architecture that combines images and text data (as well as numerical data) to predict stock returns.-->
 </blockquote>
 <!---&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*We use a transformer-based architecture that combines images and text data (as well as numerical data) to predict stock returns.*-->
 
