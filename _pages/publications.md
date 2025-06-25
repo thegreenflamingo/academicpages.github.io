@@ -42,13 +42,13 @@ We propose a simple but effective method to improve the predictability power of 
 
 ---
 
-Presentations at CFAC2024. Second round R&R at Journal of Management Sciences in China （《管理科学学报》）
+Presentations at CFAC2024. Conditionally accpected at Journal of Management Sciences in China （《管理科学学报》）
 </blockquote>
 
 <!---&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*We propose a simple but effective method to improve the predictability power of CNN in the Chinese Stock market.*--> <!---(Manuscript [here](https://github.com/thegreenflamingo/academicpages.github.io/blob/master/_publications/CNN.pdf))-->
 
 
-**AI as Decision-Maker: Risk Preferences of LLMs** (with [Shumiao Ouyang](https://www.shumiaoouyang.com/) and [Hayong Yun](https://sites.google.com/view/hayongyun/home))
+**AI as Decision-Maker: Ethics and Risk Preferences of LLMs** (with [Shumiao Ouyang](https://www.shumiaoouyang.com/) and [Hayong Yun](https://sites.google.com/view/hayongyun/home))
 
 
 <blockquote>
@@ -56,7 +56,7 @@ Large language models do exhibit consistent risk preferences and ethical fine-tu
 
 ---
 
-Presentations at ABFER-JFDS 2024, OxNLP, GPI, Oxford Finance, SBS Board, SAIF, PKU NSD, ZJU Econ, SFS Cavalcade 2024, CREDIT 2024, Adam Smith Junior 2024, and CBF 2024
+Presentations at ABFER-JFDS 2024, OxNLP, GPI, Oxford Finance, SBS Board, SAIF, PKU NSD, ZJU Econ, SFS Cavalcade 2024, CREDIT 2024, Adam Smith Junior 2024, and CBF 2024, 4th Hongkong AI Conference 2025, NAWM Econometric Society 2026
 </blockquote>
 <!---&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Large language models do exhibit consistent risk preferences and ethical finetuning has unintended consequences on their risk preferences.*-->
 
@@ -69,7 +69,7 @@ Large language models rely on associative memory to make decisions, even if the 
 
 ---
 
-Presentations at Harvard, SAIF. Scheduled presentations at CICF2025, ABFER 2025 Poster session, CFRC 2025
+Presentations at Harvard, SAIF, ABFER 2025 Poster session. Scheduled presentations at CICF2025,  CFRC 2025
 </blockquote>
 <!---&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Large language models do exhibit consistent risk preferences and ethical finetuning has unintended consequences on their risk preferences.*-->
 
