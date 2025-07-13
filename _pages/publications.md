@@ -56,7 +56,7 @@ Large language models do exhibit consistent risk preferences and ethical fine-tu
 
 ---
 
-Presentations at ABFER-JFDS 2024, OxNLP, GPI, Oxford Finance, SBS Board, SAIF, PKU NSD, ZJU Econ, SFS Cavalcade 2024, CREDIT 2024, Adam Smith Junior 2024, and CBF 2024, 4th Hongkong AI Conference 2025, NAWM Econometric Society 2026
+Presentations at ABFER-JFDS 2024, OxNLP, GPI, Oxford Finance, SBS Board, SAIF, PKU NSD, ZJU Econ, SFS Cavalcade 2024, CREDIT 2024, Adam Smith Junior 2024, and CBF 2024, 4th Hongkong AI Conference 2025, NAWM Econometric Society 2026, Paris December Meeting 2025
 </blockquote>
 <!---&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Large language models do exhibit consistent risk preferences and ethical finetuning has unintended consequences on their risk preferences.*-->
 
@@ -69,7 +69,7 @@ Large language models rely on associative memory to make decisions, even if the 
 
 ---
 
-Presentations at Harvard, SAIF, ABFER 2025 Poster session. Scheduled presentations at CICF2025,  CFRC 2025
+Presentations at Harvard, SAIF, ABFER 2025 Poster session, CICF2025, CFRC 2025
 </blockquote>
 <!---&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Large language models do exhibit consistent risk preferences and ethical finetuning has unintended consequences on their risk preferences.*-->
 
@@ -113,7 +113,7 @@ Partnered with the Ant Group.
 
 
 **Trading with AI** (with [Tse-hun Lin](https://www.hkubs.hku.hk/people/tse-chun-lin/) and [Fei Wu](https://en.saif.sjtu.edu.cn/faculty-research/wu-fei))
-
+AI is good at generating trading signals that are informative even to professional day traders. 
 
 
 
