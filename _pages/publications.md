@@ -112,6 +112,9 @@ Partnered with the Ant Group.
 </blockquote>
 
 
+**Trading with AI** (with [Tse-hun Lin](https://www.hkubs.hku.hk/people/tse-chun-lin/) and [Fei Wu](https://en.saif.sjtu.edu.cn/faculty-research/wu-fei))
+
+
 
 
 <!---**Misclassified green patents** 
