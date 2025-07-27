@@ -58,7 +58,7 @@ Large language models do exhibit consistent risk preferences and ethical fine-tu
 
 Presentations at ABFER-JFDS 2024, OxNLP, GPI, Oxford Finance, SBS Board, SAIF, PKU NSD, ZJU Econ, SFS Cavalcade 2024, CREDIT 2024, Adam Smith Junior 2024, and CBF 2024, 4th Hongkong AI Conference 2025*, scheduled presentation at NAWM Econometric Society 2026, Paris December Meeting 2025
 
-* denotes presentation by Xingjian
+(* denotes presentation by Xingjian)
 </blockquote>
 <!---&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Large language models do exhibit consistent risk preferences and ethical finetuning has unintended consequences on their risk preferences.*-->
 
@@ -114,6 +114,8 @@ Partnered with the Ant Group.
 </blockquote>
 
 
+
+<!---
 **Trading with AI** (with [Tse-Chun Lin](https://www.hkubs.hku.hk/people/tse-chun-lin/) and [Fei Wu](https://en.saif.sjtu.edu.cn/faculty-research/wu-fei))
 
 
@@ -122,7 +124,7 @@ Partnered with the Ant Group.
 </blockquote>
 
 
-<!---**Misclassified green patents** 
+**Misclassified green patents** 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Some non-green patents are misclassified as green patents (type II error), whereas some other green patents are misclassified to be non-green (type I error).*-->
 
