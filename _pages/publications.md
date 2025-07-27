@@ -57,6 +57,8 @@ Large language models do exhibit consistent risk preferences and ethical fine-tu
 ---
 
 Presentations at ABFER-JFDS 2024, OxNLP, GPI, Oxford Finance, SBS Board, SAIF, PKU NSD, ZJU Econ, SFS Cavalcade 2024, CREDIT 2024, Adam Smith Junior 2024, and CBF 2024, 4th Hongkong AI Conference 2025*, scheduled presentation at NAWM Econometric Society 2026, Paris December Meeting 2025
+
+* denotes presentation by Xingjian
 </blockquote>
 <!---&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Large language models do exhibit consistent risk preferences and ethical finetuning has unintended consequences on their risk preferences.*-->
 
