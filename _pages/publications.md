@@ -42,7 +42,7 @@ We propose a simple but effective method to improve the predictability power of 
 
 ---
 
-Presentations at CFAC2024. Conditionally accpected at Journal of Management Sciences in China （《管理科学学报》）
+Presentations at CFAC2024. Accpected at Journal of Management Sciences in China （《管理科学学报》）
 </blockquote>
 
 <!---&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*We propose a simple but effective method to improve the predictability power of CNN in the Chinese Stock market.*--> <!---(Manuscript [here](https://github.com/thegreenflamingo/academicpages.github.io/blob/master/_publications/CNN.pdf))-->
