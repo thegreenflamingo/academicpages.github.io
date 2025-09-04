@@ -56,7 +56,7 @@ Large language models do exhibit consistent risk preferences and ethical fine-tu
 
 ---
 
-Presentations at ABFER-JFDS 2024, OxNLP, GPI, Oxford Finance, SBS Board, SAIF*（×2）, PKU NSD, ZJU Econ, SFS Cavalcade 2024, CREDIT 2024, Adam Smith Junior 2024, and CBF 2024, 4th Hongkong AI Conference 2025*, ES World Congress 2025, scheduled presentation at NAWM Econometric Society 2026, Paris December Meeting 2025
+Presentations at ABFER-JFDS 2024, OxNLP, GPI, Oxford Finance, SBS Board, SAIF*（×2）, PKU NSD, ZJU Econ, SFS Cavalcade 2024, CREDIT 2024, Adam Smith Junior 2024, and CBF 2024, 4th Hongkong AI Conference 2025*, ES World Congress 2025, scheduled presentations at NAWM Econometric Society 2026, Paris December Meeting 2025, GSU AI conference 2025
 
 (* denotes presentation by Xingjian)
 </blockquote>
@@ -71,7 +71,7 @@ Large language models rely on associative memory to make decisions, even if the 
 
 ---
 
-Presentations at Harvard, SAIF, ABFER 2025 Poster session, CICF2025, CFRC 2025, scheduled presentation at AEA2026
+Presentations at Harvard, SAIF, ABFER 2025 Poster session, CICF2025, CFRC 2025, scheduled presentations at AEA2026, Fudan SOM
 </blockquote>
 <!---&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Large language models do exhibit consistent risk preferences and ethical finetuning has unintended consequences on their risk preferences.*-->
 
