@@ -18,6 +18,34 @@ author_profile: true
 Working Papers
 ------
 
+
+**Memory and Generative AI** (solo)
+
+
+<blockquote>
+Large language models rely on associative memory to make decisions, even if the memories are entirely unrelated to the decision domain. <br>
+
+---
+
+Presentations at Harvard, SAIF, ABFER 2025 Poster session, CICF2025, CFRC 2025, scheduled presentations at AEA2026, Fudan SOM, AFA 2026 Poster session 
+</blockquote>
+
+
+**AI as Decision-Maker: Ethics and Risk Preferences of LLMs** (with [Shumiao Ouyang](https://www.shumiaoouyang.com/) and [Hayong Yun](https://sites.google.com/view/hayongyun/home))
+
+
+<blockquote>
+Large language models do exhibit consistent risk preferences and ethical fine-tuning has unintended consequences on their risk preferences.<br>
+
+---
+
+Presentations at ABFER-JFDS 2024, OxNLP, GPI, Oxford Finance, SBS Board, SAIF*（×2）, PKU NSD, ZJU Econ, SFS Cavalcade 2024, CREDIT 2024, Adam Smith Junior 2024, and CBF 2024, 4th Hongkong AI Conference 2025*, ES World Congress 2025, scheduled presentations at NAWM Econometric Society 2026, Paris December Meeting 2025, GSU AI conference 2025
+
+(* denotes presentation by Xingjian)
+</blockquote>
+
+
+
 **Carbon emission and asset prices: new evidence from machine learning** (with [Feng Li](https://en.saif.sjtu.edu.cn/faculty-research/li-feng))
 
 <!---&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*We predict the carbon emissions of US-listed firms with XGBoost and find a reversed carbon premium after 2016. (This is my second-year summer paper.)* -->
@@ -48,32 +76,9 @@ Presentations at CFAC2024. Accpected at Journal of Management Sciences in China 
 <!---&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*We propose a simple but effective method to improve the predictability power of CNN in the Chinese Stock market.*--> <!---(Manuscript [here](https://github.com/thegreenflamingo/academicpages.github.io/blob/master/_publications/CNN.pdf))-->
 
 
-**AI as Decision-Maker: Ethics and Risk Preferences of LLMs** (with [Shumiao Ouyang](https://www.shumiaoouyang.com/) and [Hayong Yun](https://sites.google.com/view/hayongyun/home))
-
-
-<blockquote>
-Large language models do exhibit consistent risk preferences and ethical fine-tuning has unintended consequences on their risk preferences.<br>
-
----
-
-Presentations at ABFER-JFDS 2024, OxNLP, GPI, Oxford Finance, SBS Board, SAIF*（×2）, PKU NSD, ZJU Econ, SFS Cavalcade 2024, CREDIT 2024, Adam Smith Junior 2024, and CBF 2024, 4th Hongkong AI Conference 2025*, ES World Congress 2025, scheduled presentations at NAWM Econometric Society 2026, Paris December Meeting 2025, GSU AI conference 2025
-
-(* denotes presentation by Xingjian)
-</blockquote>
 <!---&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Large language models do exhibit consistent risk preferences and ethical finetuning has unintended consequences on their risk preferences.*-->
 
 
-**Memory and Generative AI** (solo)
-
-
-<blockquote>
-Large language models rely on associative memory to make decisions, even if the memories are entirely unrelated to the decision domain. <br>
-
----
-
-Presentations at Harvard, SAIF, ABFER 2025 Poster session, CICF2025, CFRC 2025, scheduled presentations at AEA2026, Fudan SOM, AFA 2026 Poster session 
-</blockquote>
-<!---&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Large language models do exhibit consistent risk preferences and ethical finetuning has unintended consequences on their risk preferences.*-->
 
 
 
