@@ -30,7 +30,7 @@ Language models rely on associative memory to make decisions, even if the memori
 Presentations at Harvard, SAIF, ABFER 2025 Poster session, CICF2025, CFRC 2025, scheduled presentations at AEA2026, Fudan SOM, AFA 2026 Poster session 
 </blockquote>
 
-
+<!---
 **AI as Decision-Maker: Ethics and Risk Preferences of LLMs** (with [Shumiao Ouyang](https://www.shumiaoouyang.com/) and [Hayong Yun](https://sites.google.com/view/hayongyun/home))
 
 
@@ -44,7 +44,7 @@ Presentations at ABFER-JFDS 2024, OxNLP, GPI, Oxford Finance, SBS Board, SAIF*ï¼
 (* denotes presentation by Xingjian)
 </blockquote>
 
-
+-->
 
 **Carbon emission and asset prices: new evidence from machine learning** (with [Feng Li](https://en.saif.sjtu.edu.cn/faculty-research/li-feng))
 
