@@ -107,16 +107,6 @@ We use a transformer-based architecture that combines images and text data (as w
 <!---&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*We use a transformer-based architecture that combines images and text data (as well as numerical data) to predict stock returns.*-->
 
 
-**Improving Investor Trading Habit via Digital Companion** (with [Xiaomeng Lu](https://sites.google.com/view/xiaomenglu/home), [Jun Qian](https://fisf.fudan.edu.cn/en_show-112-69.html) and [Shang-Jin Wei](https://business.columbia.edu/faculty/people/shang-jin-wei))
-
-
-<blockquote>
-We conducted experiments and found that digital nudging is effective at changing investors' behavior.<br>
-
----
-
-Partnered with the Ant Group. 
-</blockquote>
 
 
 
