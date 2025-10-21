@@ -120,6 +120,26 @@ Partnered with the Ant Group.
 
 
 
+
+**Improving Investor Trading Habit via Digital Companion** (with [Xiaomeng Lu](https://sites.google.com/view/xiaomenglu/home), [Jun Qian](https://fisf.fudan.edu.cn/en_show-112-69.html) and [Shang-Jin Wei](https://business.columbia.edu/faculty/people/shang-jin-wei))
+
+
+<blockquote>
+We conducted experiments and found that digital nudging is effective at changing investors' behavior.<br>
+
+---
+
+Partnered with the Ant Group. 
+</blockquote>
+
+
+
+**Cognitive attention and trading: an experimental study using human Brainwaves** (with Liang Chen, [Tse-Chun Lin](https://www.hkubs.hku.hk/people/tse-chun-lin/), [Fei Wu](https://en.saif.sjtu.edu.cn/faculty-research/wu-fei) and [Eric Zou](https://www.eric-zou.com/))
+
+
+
+
+
 <!---
 **Trading with AI** (with [Tse-Chun Lin](https://www.hkubs.hku.hk/people/tse-chun-lin/) and [Fei Wu](https://en.saif.sjtu.edu.cn/faculty-research/wu-fei))
 
@@ -132,11 +152,6 @@ Partnered with the Ant Group.
 **Misclassified green patents** 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Some non-green patents are misclassified as green patents (type II error), whereas some other green patents are misclassified to be non-green (type I error).*-->
-
-<!---
-**Peacock’s Feathers: Strategic disclosure in mutual fund annual reports** (Seems like a forever working project)
-
-*Fund managers with good past performance tend to differentiate themselves by reporting differently to distinguish their superior investing skills.*-->
 
 
 
