@@ -31,7 +31,7 @@ Presentations at Harvard, SAIF, ABFER 2025 Poster session, CICF2025, CFRC 2025, 
 </blockquote>
 
 
-**Ethics and Risk Preferences of LLMs** (with [Shumiao Ouyang](https://www.shumiaoouyang.com/) and [Hayong Yun](https://sites.google.com/view/hayongyun/home))
+**AI as decision maker: Ethics and Risk Preferences of LLMs** (with [Shumiao Ouyang](https://www.shumiaoouyang.com/) and [Hayong Yun](https://sites.google.com/view/hayongyun/home))
 
 
 <blockquote>
@@ -61,7 +61,7 @@ Presentations at CICF2023, CFRI-CIRF 2023 joint conference, CMCSR2023, SBSICF202
 <!---&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Presentations at CICF 2023, 2023CFRI&CIRF Joint Conference, SBSICF 2023, CMCSR 2023. (Manuscript [here](https://github.com/thegreenflamingo/academicpages.github.io/blob/master/_publications/carbon.pdf), slides [here](https://github.com/thegreenflamingo/academicpages.github.io/blob/master/_publications/carbon_emission_pre.pdf))*-->
 
 
-<!---
+
 
 **Clustered by images: Convolutional neural networks, investor heterogeneity, and Chinese stock market predictability** (《图以类聚：卷积神经网络，投资者异质性与中国股市可预测性》 in Chinese, with Yuqiao Fang and [Feng Li](https://en.saif.sjtu.edu.cn/faculty-research/li-feng))
 
@@ -72,7 +72,8 @@ We propose a simple but effective method to improve the predictability power of 
 
 Presentations at CFAC2024. Accpected at Journal of Management Sciences in China （《管理科学学报》）
 </blockquote>
--->
+
+
 <!---&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*We propose a simple but effective method to improve the predictability power of CNN in the Chinese Stock market.*--> <!---(Manuscript [here](https://github.com/thegreenflamingo/academicpages.github.io/blob/master/_publications/CNN.pdf))-->
 
 
