@@ -39,8 +39,7 @@ Language models do exhibit consistent risk preferences and ethical fine-tuning h
 
 ---
 
-Presentations at ABFER-JFDS 2024, OxNLP, GPI, Oxford Finance, SBS Board, SAIF*（×2）, PKU NSD, ZJU Econ, SFS Cavalcade 2024, CREDIT 2024, Adam Smith Junior 2024, and CBF 2024, 4th Hongkong AI Conference 2025*, ES World Congress 2025, scheduled presentations at NAWM Econometric Society 2026, Paris December Meeting 2025, GSU AI conference 2025, Fudan SOE*
-
+(Scheduled) presentations at ABFER-JFDS 2024, OxNLP, GPI, Oxford Finance, SBS Board, SAIF*, PKU NSD, ZJU Econ, SFS Cavalcade 2024, CREDIT 2024, Adam Smith Junior 2024, CBF 2024, 4th Hongkong AI Conference 2025*, ES World Congress 2025, scheduled presentations at NAWM Econometric Society 2026, Paris December Meeting 2025, GSU AI conference 2025, Luohan Academy, Shanghai AI Lab, USC, CEIBS, Edinburgh, Durham CBID, Glasgow Adam Smith, Association for Computational Linguistics (ACL) 2025 BoF, Xueshuo, and OMI 2025, Fudan SOE*.
 (* denotes presentation by Xingjian)
 </blockquote>
 
