@@ -19,7 +19,7 @@ Working Papers
 ------
 
 
-**Memory and GAI** (Solo, [Job Market Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5566078))
+**[Memory and GAI](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5566078)** (Solo, Job Market Paper)
 
 
 <blockquote>
