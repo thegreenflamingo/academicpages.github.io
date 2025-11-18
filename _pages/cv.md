@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-CV 
+
 ======
 Updated CV maintained [here](https://drive.google.com/file/d/13gI0cDlAkPBxpSC34yrYrljych_SImWW/view?usp=sharing).
 
