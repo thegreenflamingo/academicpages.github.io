@@ -19,7 +19,7 @@ Working Papers
 ------
 
 
-**Memory and GAI** (solo)
+**Memory and GAI** (Solo, [Job Market Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5566078))
 
 
 <blockquote>
@@ -27,7 +27,7 @@ Language models rely on associative memory to make decisions, even if the memori
 
 ---
 
-(Scheduled) presentations at Harvard, SAIF, ABFER 2025 Poster session, CICF2025, CFRC 2025, AEA2026, Fudan SOM, AFA 2026 Poster session 
+(Scheduled) presentations at Harvard, SAIF, ABFER 2025 Poster session, CICF2025, CFRC 2025, AEA2026, Fudan SOM, AFA 2026 Poster session. 
 </blockquote>
 
 
