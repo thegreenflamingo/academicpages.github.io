@@ -31,7 +31,7 @@ Language models rely on associative memory to make decisions, even if the memori
 </blockquote>
 
 
-**AI as decision maker: Ethics and Risk Preferences of LLMs** (with [Shumiao Ouyang](https://www.shumiaoouyang.com/) and [Hayong Yun](https://sites.google.com/view/hayongyun/home))
+**[AI as decision maker: Ethics and Risk Preferences of LLMs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4851711)** (with [Shumiao Ouyang](https://www.shumiaoouyang.com/) and [Hayong Yun](https://sites.google.com/view/hayongyun/home))
 
 
 <blockquote>
@@ -45,7 +45,7 @@ Language models do exhibit consistent risk preferences and ethical fine-tuning h
 
 
 
-**Carbon emission and asset prices: new evidence from machine learning** (with [Feng Li](https://en.saif.sjtu.edu.cn/faculty-research/li-feng))
+**[Carbon emission and asset prices: new evidence from machine learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4400681)** (with [Feng Li](https://en.saif.sjtu.edu.cn/faculty-research/li-feng))
 
 <!---&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*We predict the carbon emissions of US-listed firms with XGBoost and find a reversed carbon premium after 2016. (This is my second-year summer paper.)* -->
 
@@ -62,7 +62,7 @@ Presentations at CICF2023, CFRI-CIRF 2023 joint conference, CMCSR2023, SBSICF202
 
 
 
-**Clustered by images: Convolutional neural networks, investor heterogeneity, and Chinese stock market predictability** (《图以类聚：卷积神经网络，投资者异质性与中国股市可预测性》 in Chinese, with Yuqiao Fang and [Feng Li](https://en.saif.sjtu.edu.cn/faculty-research/li-feng))
+**[Clustered by images: Convolutional neural networks, investor heterogeneity, and Chinese stock market predictability](https://drive.google.com/file/d/1_JpwaADAwc1diJFE2SM4MTj1HRhQG3dD/view?usp=sharing)** (《图以类聚：卷积神经网络，投资者异质性与中国股市可预测性》 in Chinese, with Yuqiao Fang and [Feng Li](https://en.saif.sjtu.edu.cn/faculty-research/li-feng))
 
 <blockquote>
 We propose a simple but effective method to improve the predictability power of CNN in the Chinese Stock market.<br>
