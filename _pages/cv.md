@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+Updated CV maintained [here](https://drive.google.com/file/d/13gI0cDlAkPBxpSC34yrYrljych_SImWW/view?usp=sharing).
 
 Education
 ======
@@ -35,10 +36,7 @@ Language
 * Mandarin & Shanghainese (Native)
 * Japanese (N-4 level)
 
-Academic service
-======
-Reviewer for The Journal of Banking and Finance.
-  
+
 
 <!--* Kendo
 #* Skill 3-->
