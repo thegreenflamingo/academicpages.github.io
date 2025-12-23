@@ -27,7 +27,7 @@ Language models rely on associative memory to make decisions, even if the memori
 
 ---
 
-(Scheduled) presentations at Harvard, SAIF, ABFER 2025 Poster session, CICF2025, CFRC 2025, AEA2026, Fudan SOM, AFA 2026 Poster session. 
+(Scheduled) presentations at Harvard, SAIF, Fudan SOM, SIMIS, Tongji SEM, ABFER 2025 Poster session, CICF2025, CFRC 2025, AEA2026, AFA 2026 Poster session. 
 </blockquote>
 
 
