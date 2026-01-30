@@ -45,6 +45,21 @@ Language models do exhibit consistent risk preferences and ethical fine-tuning h
 
 
 
+
+
+
+
+
+**Beta for Alpha: Neural Engagement in High-Stakes Financial Trading** (with Liang Chen, [Tse-Chun Lin](https://www.hkubs.hku.hk/people/tse-chun-lin/), [Fei Wu](https://en.saif.sjtu.edu.cn/faculty-research/wu-fei) and [Eric Zou](https://www.eric-zou.com/))
+
+
+<blockquote>
+Brainwaves provide a direct measure of investors' cognitive attention. Engagement level does not predict trading profit, whereas changes in engagement level do.<br>
+
+</blockquote>
+
+
+
 **[Carbon emission and asset prices: new evidence from machine learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4400681)** (with [Feng Li](https://en.saif.sjtu.edu.cn/faculty-research/li-feng))
 
 <!---&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*We predict the carbon emissions of US-listed firms with XGBoost and find a reversed carbon premium after 2016. (This is my second-year summer paper.)* -->
@@ -60,7 +75,8 @@ Presentations at CICF2023, CFRI-CIRF 2023 joint conference, CMCSR2023, SBSICF202
 <!---&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Presentations at CICF 2023, 2023CFRI&CIRF Joint Conference, SBSICF 2023, CMCSR 2023. (Manuscript [here](https://github.com/thegreenflamingo/academicpages.github.io/blob/master/_publications/carbon.pdf), slides [here](https://github.com/thegreenflamingo/academicpages.github.io/blob/master/_publications/carbon_emission_pre.pdf))*-->
 
 
-
+Publication
+------
 
 **[Clustered by images: Convolutional neural networks, investor heterogeneity, and Chinese stock market predictability](https://drive.google.com/file/d/1_JpwaADAwc1diJFE2SM4MTj1HRhQG3dD/view?usp=sharing)** (《图以类聚：卷积神经网络，投资者异质性与中国股市可预测性》 in Chinese, with Yuqiao Fang and [Feng Li](https://en.saif.sjtu.edu.cn/faculty-research/li-feng))
 
@@ -69,7 +85,7 @@ We propose a simple but effective method to improve the predictability power of 
 
 ---
 
-Presentations at CFAC2024. Accpected at Journal of Management Sciences in China （《管理科学学报》）
+Presentations at CFAC2024. Accpected at Journal of Management Sciences in China （《管理科学学报》, top tier journal in China）
 </blockquote>
 
 
@@ -77,17 +93,6 @@ Presentations at CFAC2024. Accpected at Journal of Management Sciences in China 
 
 
 <!---&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Large language models do exhibit consistent risk preferences and ethical finetuning has unintended consequences on their risk preferences.*-->
-
-
-**Beta for Alpha: Neural Engagement in High-Stakes Financial Trading** (with Liang Chen, [Tse-Chun Lin](https://www.hkubs.hku.hk/people/tse-chun-lin/), [Fei Wu](https://en.saif.sjtu.edu.cn/faculty-research/wu-fei) and [Eric Zou](https://www.eric-zou.com/))
-
-
-<blockquote>
-Brainwaves provide a direct measure of investors' cognitive attention. Engagement level does not predict trading profit, whereas changes in engagement level do.<br>
-
-</blockquote>
-
-
 
 
 
