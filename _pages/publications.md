@@ -79,6 +79,13 @@ Presentations at CFAC2024. Accpected at Journal of Management Sciences in China 
 <!---&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Large language models do exhibit consistent risk preferences and ethical finetuning has unintended consequences on their risk preferences.*-->
 
 
+**Beta for Alpha: Neural Engagement in High-Stakes Financial Trading** (with Liang Chen, [Tse-Chun Lin](https://www.hkubs.hku.hk/people/tse-chun-lin/), [Fei Wu](https://en.saif.sjtu.edu.cn/faculty-research/wu-fei) and [Eric Zou](https://www.eric-zou.com/))
+
+
+<blockquote>
+Brainwaves provide a direct measure of investors' cognitive attention. Engagement level does not predict trading profit, whereas changes in engagement level do.<br>
+
+</blockquote>
 
 
 
@@ -124,13 +131,6 @@ Partnered with the Ant Group.
 
 
 
-**Cognitive attention and trading: an experimental study with brainwaves** (with Liang Chen, [Tse-Chun Lin](https://www.hkubs.hku.hk/people/tse-chun-lin/), [Fei Wu](https://en.saif.sjtu.edu.cn/faculty-research/wu-fei) and [Eric Zou](https://www.eric-zou.com/))
-
-
-<blockquote>
-Brainwaves provide a direct measure of investors' cognitive attention. Trading profit and cognitive attention exhibit an inverted U-shape pattern.<br>
-
-</blockquote>
 
 
 
