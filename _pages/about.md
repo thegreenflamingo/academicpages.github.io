@@ -15,4 +15,4 @@ Welcome to my site! I am a sixth-year PhD candidate in Finance at Shanghai Advan
 
 My committee chair is Prof. [Feng LI](https://en.saif.sjtu.edu.cn/faculty-research/li-feng). I was also a visiting PhD student at HBS in AY2024-25, where I was advised by Prof. [Lauren COHEN](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=340063). 
 
-My first name can be pronounced as "Sing-Jan". I will join Tongji SEM as an Assistant Professor of Finance this July. Hope to see you in person! 
+My first name can be pronounced as "Sing-Jan". Hope to see you in person! 
