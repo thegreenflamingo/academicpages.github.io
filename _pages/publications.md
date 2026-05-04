@@ -19,7 +19,7 @@ Working Papers
 ------
 
 
-**[When AI Knows but Still Chooses Wrong: Associative Retrieval in LLM Financial Advice](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5566078)** (Solo, Job Market Paper)
+**[When AI Knows but Still Chooses Wrong: Associative Retrieval in LLM Financial Advice](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5566078)** (Solo, Subsumes my Job Market Paper "Memory and GAI")
 
 
 <blockquote>
