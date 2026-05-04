@@ -82,7 +82,8 @@ Presentations at CICF2023, CFRI-CIRF 2023 joint conference, CMCSR2023, SBSICF202
 Publication
 ------
 
-**[Clustered by images: Convolutional neural networks, investor heterogeneity, and Chinese stock market predictability](https://drive.google.com/file/d/1_JpwaADAwc1diJFE2SM4MTj1HRhQG3dD/view?usp=sharing)** (《图以类聚：卷积神经网络，投资者异质性与中国股市可预测性》 in Chinese, with Yuqiao Fang and [Feng Li](https://en.saif.sjtu.edu.cn/faculty-research/li-feng))
+**[Clustered by images: Convolutional neural networks, investor heterogeneity, and Chinese stock market predictability](https://drive.google.com/file/d/1_JpwaADAwc1diJFE2SM4MTj1HRhQG3dD/view?usp=sharing)**  
+(《图以类聚：卷积神经网络，投资者异质性与中国股市可预测性》 in Chinese, with Yuqiao Fang and [Feng Li](https://en.saif.sjtu.edu.cn/faculty-research/li-feng))
 
 <blockquote>
 We propose a simple but effective method to improve the predictability power of CNN in the Chinese Stock market.<br>
