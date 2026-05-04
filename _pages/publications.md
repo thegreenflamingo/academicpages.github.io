@@ -19,11 +19,11 @@ Working Papers
 ------
 
 
-**[Memory and GAI](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5566078)** (Solo, Job Market Paper)
+**[When AI Knows but Still Chooses Wrong: Associative Retrieval in LLM Financial Advice](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5566078)** (Solo, Job Market Paper)
 
 
 <blockquote>
-Language models rely on associative memory to make decisions, even if the memories are entirely unrelated to the decision domain. <br>
+Language language models can “know” the right financial probabilities but still choose differently, because irrelevant context reshapes how beliefs are translated into investment actions. <br>
 
 ---
 
