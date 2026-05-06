@@ -24,7 +24,7 @@ Working Papers
 
 
 <blockquote>
-Language language models can “know” the right financial probabilities but still choose differently, because irrelevant context reshapes how beliefs are translated into investment actions. <br>
+Irrelevant context reshapes how language models translate financial beliefs into investment actions: they can estimate the right probabilities yet still choose the wrong asset.  <br>
 
 ---
 
