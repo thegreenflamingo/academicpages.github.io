@@ -64,18 +64,6 @@ Brainwaves provide a direct measure of investors' cognitive attention. Engagemen
 
 
 
-**[Carbon emission and asset prices: new evidence from machine learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4400681)** (with [Feng Li](https://en.saif.sjtu.edu.cn/faculty-research/li-feng))
-
-<!---&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*We predict the carbon emissions of US-listed firms with XGBoost and find a reversed carbon premium after 2016. (This is my second-year summer paper.)* -->
-
-<blockquote>
-We predict the carbon emissions of US-listed firms with XGBoost and find a reversed carbon premium after 2016. (This is my second-year summer paper.)<br>
-
----
-
-Presentations at CICF2023, CFRI-CIRF 2023 joint conference, CMCSR2023, SBSICF2023
-</blockquote>
-
 <!---&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Presentations at CICF 2023, 2023CFRI&CIRF Joint Conference, SBSICF 2023, CMCSR 2023. (Manuscript [here](https://github.com/thegreenflamingo/academicpages.github.io/blob/master/_publications/carbon.pdf), slides [here](https://github.com/thegreenflamingo/academicpages.github.io/blob/master/_publications/carbon_emission_pre.pdf))*-->
 
 
@@ -141,6 +129,21 @@ Partnered with the Ant Group.
 
 
 
+
+Inactive Working Papers
+------
+
+**[Carbon emission and asset prices: new evidence from machine learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4400681)** (with [Feng Li](https://en.saif.sjtu.edu.cn/faculty-research/li-feng))
+
+<!---&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*We predict the carbon emissions of US-listed firms with XGBoost and find a reversed carbon premium after 2016. (This is my second-year summer paper.)* -->
+
+<blockquote>
+We predict the carbon emissions of US-listed firms with XGBoost and find a reversed carbon premium after 2016. (This is my second-year summer paper.)<br>
+
+---
+
+Presentations at CICF2023, CFRI-CIRF 2023 joint conference, CMCSR2023, SBSICF2023
+</blockquote>
 
 
 
