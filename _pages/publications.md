@@ -19,7 +19,7 @@ Working Papers
 ------
 
 
-**When AI Knows but Still Chooses Wrong: Associative Retrieval in LLM Financial Advice**  
+**Contextual Bias in LLM Financial Advice**  
 (Solo, subsumes my Job Market Paper "Memory and GAI", new draft coming soon)
 
 
