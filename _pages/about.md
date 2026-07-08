@@ -11,9 +11,9 @@ redirect_from:
 Xingjian ZHENG (郑行健)
 ======
 
-Welcome to my site! I am a sixth-year PhD candidate in Finance at Shanghai Advanced Institute of Finance (SAIF), SJTU. My research interests focus on behavioral economics/finance, leveraging Fintech platforms and language models. My current research questions are: (1) How to influence investors with information design on fintech platforms? and (2) What are the cognitive decision-making rules of human & artificial decision makers? 
+Welcome to my site! I am an Assistant professor in Finance at Shanghai University of Finance and Economics (SUFE). My research interests focus on behavioral economics/finance, leveraging Fintech platforms and language models. My current research questions are: (1) How to influence investors with information design on fintech platforms? and (2) What are the cognitive decision-making rules of human & artificial decision makers? 
 
-My committee chair is Prof. [Feng LI](https://en.saif.sjtu.edu.cn/faculty-research/li-feng). I was also a visiting PhD student at HBS in AY2024-25, where I was advised by Prof. [Lauren COHEN](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=340063). I will join Shanghai University of Finance and Economics (SUFE) as an assistant professor in finance. 
+My committee chair is Prof. [Feng LI](https://en.saif.sjtu.edu.cn/faculty-research/li-feng). I graduated from Shanghai Advanced Institute of Finance (SAIF) at SJTU. I was also a visiting PhD student at HBS in AY2024-25, where I was advised by Prof. [Lauren COHEN](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=340063). 
 
 My first name can be pronounced as "Sing-Jan". In my spare time, I work as a gym coach, perhaps one of the few jobs AI cannot replace. Hope to see you in person! 
 
