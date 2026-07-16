@@ -58,7 +58,8 @@ Language models do exhibit consistent risk preferences and ethical fine-tuning h
 Brainwaves provide a direct measure of investors' cognitive attention. Engagement level does not predict trading profit, whereas changes in engagement level do.<br>
 
 ---
-(Scheduled) presentations at CICF2026, CFRC2026, SAIF. 
+(Scheduled) presentations at 20th International Behavioural Finance Conference, CICF 2026*, CFRC 2026*, SZU, ZJU, HKU, NChengchi U. 
+(* denotes presentation by Xingjian)
 
 </blockquote>
 
