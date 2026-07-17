@@ -51,7 +51,7 @@ Language models do exhibit consistent risk preferences and ethical fine-tuning h
 
 
 
-**[Beta for Alpha: Neural Engagement in High-Stakes Financial Trading](https://drive.google.com/file/d/1rudOnWMxCGJIoshDVe6puswv5HsL06jF/view?usp=sharing)** (with Liang Chen, [Tse-Chun Lin](https://www.hkubs.hku.hk/people/tse-chun-lin/), [Fei Wu](https://en.saif.sjtu.edu.cn/faculty-research/wu-fei) and [Eric Zou](https://www.eric-zou.com/)) **_New!!_**
+**[Beta for Alpha: Neural Engagement in High-Stakes Financial Trading](https://www.nber.org/papers/w35345)** (with Liang Chen, [Tse-Chun Lin](https://www.hkubs.hku.hk/people/tse-chun-lin/), [Fei Wu](https://en.saif.sjtu.edu.cn/faculty-research/wu-fei) and [Eric Zou](https://www.eric-zou.com/)) **_New!!_**
 
 
 <blockquote>
